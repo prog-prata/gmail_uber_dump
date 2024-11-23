@@ -1,3 +1,9 @@
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
+
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
+
 # Dump Uber Gmail
 
 Este projeto é um aplicativo que acessa sua conta do **Gmail** e faz o _"dump"_ dos e-mail enviados pela **UBER** contedo os _recibos das viagens_ feitas usando o app da empresa.  
