@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 import email
 import logging
 import argparse
@@ -12,12 +14,12 @@ DUMPED_FILE_NAME ='data/emails.json'
 
 def get_parameters():
     parser = argparse.ArgumentParser(description="Process named parameters.")
-    parser.add_argument("--delete_after", action="store_true", help="Delete after (boolean, default False)")
-    parser.add_argument("--since", required=True, help="Since (string, required), ex.:15/11/2020 00:00")
+    parser.add_argument("--delete", action="store_true", help="Delete messages dumped from Inbox (boolean, default False)")
+    parser.add_argument("--since", required=True, help="Date since the messages are received (string, required), ex.:15/11/2020 00:00")
 
     args = parser.parse_args()
 
-    return (args.delete_after, args.since)
+    return (args.delete, args.since)
 
 def main():
     delete_after, since = get_parameters()
