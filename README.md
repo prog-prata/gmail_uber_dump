@@ -1,10 +1,17 @@
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 
-[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contribuições)
 
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-# Dump Uber Gmail
+<p style="text-align:center;">
+  <h1>Dump Uber Gmail</h1>
+  <!-- Incluindo alguns badges: START-->
+  <a href="https://github.com/prog-prata/gmail_uber_dump/blob/master/LICENSE" target="blank">
+    <img src="https://img.shields.io/github/license/prog-prata/gmail_uber_dump?style=flat-square" alt="gmail_uber_dump licence" />
+  </a>
+  <!-- Incluindo alguns badges: END-->
+</p>
 
 Este projeto é um aplicativo que acessa sua conta do **Gmail** e faz o _"dump"_ dos e-mail enviados pela **UBER** contedo os _recibos das viagens_ feitas usando o app da empresa.  
 O programa irá gerar um arquivo chamado `data/emails.json` no formato JSON que poderá ser utilizado para analisar as informações de suas viagens.  
@@ -69,3 +76,7 @@ Processa as mensagens recebidas a partir das 17 horas do dia quinze de agosto de
 
 - As credencias do gmail devem ser informadas no arquivo `credentials.json` que está localizado na pasta `config`.
 - O arquivo `uber_list.json` que está na pasta `mail_list` contém os endereços dos remetentes dos recibo da UBER.
+
+## Contribuições
+
+Este projeto segue a especificação [all-contributors](https://github.com/all-contributors/all-contributors). Contribuições de qualquer tipo, especialmente ajuda com o código do projeto, serão bem-vindas!
