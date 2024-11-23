@@ -55,8 +55,9 @@ Processa as mensagens recebidas a partir das 17 horas do dia quinze de agosto de
 - As mensagens serão gravadas na pasta `data` em um arquivo com o nome `emails.json`.
 - Este arquivo é **cumulativo**, ou seja, execuções sucessivas vão acrescentar mais mensagens sem apagar as anteriores. Porém o arquivo **não será ordenado**, pois a ideia é usar um outro aplicativo (Pandas por exemplo) para tratar o arquivo e extrair informações.
 - Para obter endereços de **partida** e **destino** o programa tenta encontrar o CEP. Assim caso no cadastro do endereço não exista o CEP o programa não encontrará o endereço e o campo _address_ será vazio.
-- Pelo mesmo motivo, caso haja na mensagem algum campo que siga o mesmo padrão do CEP, poderá ser gerado um campo _address_ com um endereço inexistente.
-- Em alguns casos ocorreu um erro de acesso ao gmail devido a problemas de time-out e outros que não são do programa. Se ocorrer algo semelhante tente a execução algumas vezes até que não haja mensagens de erro relacionadas com acesso ao gmail.
+- Pelo mesmo motivo, caso haja na mensagem algum texto / parágrafo que siga o mesmo padrão do CEP, poderá ser gerado um campo _address_ com um endereço inexistente.
+- Em alguns casos ocorreu um erro de acesso ao gmail devido a problemas no protocolo IMAP que não são do programa. A mensgem de erro é algo como `imaplib.IMAP4.error: LOGIN command error`. Se ocorrer um error semelhante tente reexceutar o programa algumas vezes.
+- A execução pode ser demorada, então é recomendável definir uma data (parâmtro SINCE) mais recente e depois ir ajustando para datas mais antigas.
 
 ## Configurações e Pastas
 
