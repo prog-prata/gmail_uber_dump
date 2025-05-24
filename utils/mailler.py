@@ -40,6 +40,7 @@ def get_emails_from_uber(mail, since, filepath):
     date_filter = (datetime.strptime(since, '%d/%m/%Y %H:%M')).astimezone()
     internal_date = imaplib.Time2Internaldate(date_filter)
     for email in emails_from_uber:
+        print(f'Getting emails for the address {email}')
         criteria = 'FROM "{}" SINCE {}"'.format(email, internal_date.split()[0])
         #print(criteria)
         _, messages = mail.search(None, criteria)
