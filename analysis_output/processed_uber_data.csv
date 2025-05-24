@@ -1,0 +1,998 @@
+id,email,total,distance,subject,date,work_related,day,month,year,hour,date_only,year_month
+5453,noreply@uber.com,7.74,1.25,Sua viagem de domingo de manhã com a Uber,2021-09-05 11:01:25,True,5,9,2021,11,2021-09-05,2021-09
+5474,noreply@uber.com,18.83,9.93,Sua viagem de quinta-feira de manhã com a Uber,2021-09-09 06:51:26,True,9,9,2021,6,2021-09-09,2021-09
+5475,noreply@uber.com,8.44,2.23,Sua viagem de quinta-feira de manhã com a Uber,2021-09-09 07:55:37,True,9,9,2021,7,2021-09-09,2021-09
+5481,noreply@uber.com,10.91,3.96,Sua viagem de quinta-feira à tarde com a Uber,2021-09-09 12:24:31,True,9,9,2021,12,2021-09-09,2021-09
+5484,noreply@uber.com,9.16,3.19,Sua viagem de quinta-feira à noite com a Uber,2021-09-09 17:37:19,True,9,9,2021,17,2021-09-09,2021-09
+5486,noreply@uber.com,19.9,9.33,Sua viagem de quinta-feira à noite com a Uber,2021-09-09 18:10:31,True,9,9,2021,18,2021-09-09,2021-09
+5540,noreply@uber.com,7.74,1.51,Sua viagem de sexta-feira de manhã com a Uber,2021-09-17 10:18:00,True,17,9,2021,10,2021-09-17,2021-09
+5544,noreply@uber.com,7.74,0.57,Sua viagem de sexta-feira à tarde com a Uber,2021-09-17 12:38:34,True,17,9,2021,12,2021-09-17,2021-09
+5564,noreply@uber.com,7.74,0.72,Sua viagem de segunda-feira à tarde com a Uber,2021-09-20 16:31:20,True,20,9,2021,16,2021-09-20,2021-09
+5588,noreply@uber.com,7.73,0.72,Sua viagem de terça-feira à tarde com a Uber,2021-09-21 15:17:45,True,21,9,2021,15,2021-09-21,2021-09
+5623,noreply@uber.com,20.95,9.93,Sua viagem de sexta-feira de manhã com a Uber,2021-09-24 11:53:05,True,24,9,2021,11,2021-09-24,2021-09
+5625,noreply@uber.com,20.92,8.29,Sua viagem de sexta-feira à tarde com a Uber,2021-09-24 13:12:38,True,24,9,2021,13,2021-09-24,2021-09
+5640,noreply@uber.com,8.37,1.61,Sua viagem de domingo à tarde com a Uber,2021-09-26 12:21:25,True,26,9,2021,12,2021-09-26,2021-09
+5642,noreply@uber.com,9.96,3.11,Sua viagem de domingo à noite com a Uber,2021-09-26 17:24:56,True,26,9,2021,17,2021-09-26,2021-09
+5647,noreply@uber.com,9.97,3.0,Sua viagem de segunda-feira de manhã com a Uber,2021-09-27 09:50:29,True,27,9,2021,9,2021-09-27,2021-09
+5651,noreply@uber.com,9.97,1.94,Sua viagem de segunda-feira à tarde com a Uber,2021-09-27 14:26:50,True,27,9,2021,14,2021-09-27,2021-09
+5695,noreply@uber.com,7.74,1.12,Sua viagem de sexta-feira à tarde com a Uber,2021-10-01 13:06:40,True,1,10,2021,13,2021-10-01,2021-10
+5700,noreply@uber.com,12.98,1.86,Sua viagem de sexta-feira à noite com a Uber,2021-10-01 19:01:26,True,1,10,2021,19,2021-10-01,2021-10
+5725,noreply@uber.com,9.9,2.6,Sua viagem de terça-feira de manhã com a Uber,2021-10-05 08:41:11,True,5,10,2021,8,2021-10-05,2021-10
+5740,noreply@uber.com,17.94,11.84,Sua viagem de quinta-feira de manhã com a Uber,2021-10-07 06:50:04,True,7,10,2021,6,2021-10-07,2021-10
+5741,noreply@uber.com,11.5,1.12,Sua viagem de quinta-feira de manhã com a Uber,2021-10-07 07:07:53,True,7,10,2021,7,2021-10-07,2021-10
+5742,noreply@uber.com,8.45,2.01,Sua viagem de quinta-feira de manhã com a Uber,2021-10-07 08:47:46,True,7,10,2021,8,2021-10-07,2021-10
+5750,noreply@uber.com,27.59,9.44,Sua viagem de quinta-feira à tarde com a Uber,2021-10-07 15:05:21,True,7,10,2021,15,2021-10-07,2021-10
+5757,noreply@uber.com,17.9,8.27,Sua viagem de sábado de manhã com a Uber,2021-10-09 10:23:35,True,9,10,2021,10,2021-10-09,2021-10
+5763,noreply@uber.com,24.93,8.03,Sua viagem de domingo à tarde com a Uber,2021-10-10 13:15:50,True,10,10,2021,13,2021-10-10,2021-10
+5764,noreply@uber.com,28.96,10.71,Sua viagem de domingo à noite com a Uber,2021-10-10 20:41:38,True,10,10,2021,20,2021-10-10,2021-10
+5768,noreply@uber.com,8.97,2.46,Sua viagem de segunda-feira de manhã com a Uber,2021-10-11 10:16:54,True,11,10,2021,10,2021-10-11,2021-10
+5774,noreply@uber.com,13.99,2.3,Sua viagem de segunda-feira à tarde com a Uber,2021-10-11 15:37:51,True,11,10,2021,15,2021-10-11,2021-10
+5780,noreply@uber.com,7.73,0.97,Sua viagem de terça-feira de manhã com a Uber,2021-10-12 10:05:32,True,12,10,2021,10,2021-10-12,2021-10
+5791,noreply@uber.com,11.96,3.03,Sua viagem de quarta-feira à noite com a Uber,2021-10-13 18:09:40,True,13,10,2021,18,2021-10-13,2021-10
+5798,noreply@uber.com,7.74,1.41,Sua viagem de quinta-feira à tarde com a Uber,2021-10-14 12:54:32,True,14,10,2021,12,2021-10-14,2021-10
+5806,noreply@uber.com,7.74,1.14,Sua viagem de sexta-feira de manhã com a Uber,2021-10-15 08:17:58,True,15,10,2021,8,2021-10-15,2021-10
+5807,noreply@uber.com,7.74,0.59,Sua viagem de sexta-feira de manhã com a Uber,2021-10-15 08:53:59,True,15,10,2021,8,2021-10-15,2021-10
+5839,noreply@uber.com,7.74,0.87,Sua viagem de terça-feira à tarde com a Uber,2021-10-19 14:12:04,True,19,10,2021,14,2021-10-19,2021-10
+5855,noreply@uber.com,7.74,1.5,Sua viagem de quinta-feira de manhã com a Uber,2021-10-21 10:03:56,True,21,10,2021,10,2021-10-21,2021-10
+5859,noreply@uber.com,7.73,1.5,Sua viagem de sexta-feira de manhã com a Uber,2021-10-22 10:41:48,True,22,10,2021,10,2021-10-22,2021-10
+5862,noreply@uber.com,8.96,1.06,Sua viagem de sexta-feira à tarde com a Uber,2021-10-22 12:52:09,True,22,10,2021,12,2021-10-22,2021-10
+5872,noreply@uber.com,9.97,4.39,Sua viagem de domingo à noite com a Uber,2021-10-24 19:36:19,True,24,10,2021,19,2021-10-24,2021-10
+5873,noreply@uber.com,9.91,3.08,Sua viagem de domingo à noite com a Uber,2021-10-24 20:34:40,True,24,10,2021,20,2021-10-24,2021-10
+5972,noreply@uber.com,8.93,1.12,Sua viagem de sábado de manhã com a Uber,2021-11-06 08:02:17,True,6,11,2021,8,2021-11-06,2021-11
+5976,noreply@uber.com,7.09,3.67,Sua viagem de domingo de manhã com a Uber,2021-11-07 07:35:42,True,7,11,2021,7,2021-11-07,2021-11
+5977,noreply@uber.com,9.01,3.61,Sua viagem de domingo de manhã com a Uber,2021-11-07 07:52:51,True,7,11,2021,7,2021-11-07,2021-11
+5993,noreply@uber.com,23.99,9.35,Sua viagem de terça-feira de manhã com a Uber,2021-11-09 06:41:59,True,9,11,2021,6,2021-11-09,2021-11
+5994,noreply@uber.com,12.95,2.29,Sua viagem de terça-feira de manhã com a Uber,2021-11-09 07:17:28,True,9,11,2021,7,2021-11-09,2021-11
+5998,noreply@uber.com,10.99,2.59,Sua viagem de terça-feira de manhã com a Uber,2021-11-09 10:58:37,True,9,11,2021,10,2021-11-09,2021-11
+6001,noreply@uber.com,11.97,1.92,Sua viagem de terça-feira à tarde com a Uber,2021-11-09 16:32:39,True,9,11,2021,16,2021-11-09,2021-11
+6003,noreply@uber.com,20.95,9.38,Sua viagem de terça-feira à tarde com a Uber,2021-11-09 17:15:01,True,9,11,2021,17,2021-11-09,2021-11
+6012,noreply@uber.com,8.66,1.18,Sua viagem de quarta-feira à noite com a Uber,2021-11-10 20:28:11,True,10,11,2021,20,2021-11-10,2021-11
+6024,noreply@uber.com,7.73,1.41,Sua viagem de sexta-feira à tarde com a Uber,2021-11-12 13:41:20,True,12,11,2021,13,2021-11-12,2021-11
+6026,noreply@uber.com,7.74,0.61,Sua viagem de sexta-feira à noite com a Uber,2021-11-12 19:46:51,True,12,11,2021,19,2021-11-12,2021-11
+6029,noreply@uber.com,9.93,3.16,Sua viagem de sábado à tarde com a Uber,2021-11-13 13:55:32,True,13,11,2021,13,2021-11-13,2021-11
+6030,noreply@uber.com,8.41,2.46,Sua viagem de sábado à noite com a Uber,2021-11-13 17:26:19,True,13,11,2021,17,2021-11-13,2021-11
+6031,noreply@uber.com,7.73,1.27,Sua viagem de domingo de manhã com a Uber,2021-11-14 07:57:49,True,14,11,2021,7,2021-11-14,2021-11
+6048,noreply@uber.com,8.93,1.69,Sua viagem de quarta-feira à tarde com a Uber,2021-11-17 17:03:29,True,17,11,2021,17,2021-11-17,2021-11
+6050,noreply@uber.com,8.81,2.36,Sua viagem de quinta-feira de manhã com a Uber,2021-11-18 10:01:34,True,18,11,2021,10,2021-11-18,2021-11
+6061,noreply@uber.com,8.22,0.62,Sua viagem de sábado à noite com a Uber,2021-11-20 19:42:45,True,20,11,2021,19,2021-11-20,2021-11
+6076,noreply@uber.com,9.99,2.83,Sua viagem de quarta-feira à tarde com a Uber,2021-11-24 12:55:45,True,24,11,2021,12,2021-11-24,2021-11
+6078,noreply@uber.com,10.98,2.62,Sua viagem de quarta-feira à tarde com a Uber,2021-11-24 16:56:14,True,24,11,2021,16,2021-11-24,2021-11
+6091,noreply@uber.com,8.54,2.14,Sua viagem de sexta-feira à tarde com a Uber,2021-11-26 15:07:28,True,26,11,2021,15,2021-11-26,2021-11
+6093,noreply@uber.com,10.9,2.51,Sua viagem de sexta-feira à noite com a Uber,2021-11-26 18:47:13,True,26,11,2021,18,2021-11-26,2021-11
+6112,noreply@uber.com,7.74,1.16,Sua viagem de terça-feira à tarde com a Uber,2021-11-30 14:24:10,True,30,11,2021,14,2021-11-30,2021-11
+6125,noreply@uber.com,11.95,3.03,Sua viagem de quinta-feira à tarde com a Uber,2021-12-02 15:11:12,True,2,12,2021,15,2021-12-02,2021-12
+6129,noreply@uber.com,8.13,2.44,Sua viagem de quinta-feira à noite com a Uber,2021-12-02 21:54:08,True,2,12,2021,21,2021-12-02,2021-12
+6139,noreply@uber.com,7.73,1.83,Sua viagem de domingo de manhã com a Uber,2021-12-05 08:13:24,True,5,12,2021,8,2021-12-05,2021-12
+6141,noreply@uber.com,12.94,1.81,Sua viagem de domingo à tarde com a Uber,2021-12-05 12:16:42,True,5,12,2021,12,2021-12-05,2021-12
+6170,noreply@uber.com,11.15,3.75,Sua viagem de thursday à tarde com a Uber,2021-12-09 14:09:47,True,9,12,2021,14,2021-12-09,2021-12
+6172,noreply@uber.com,12.99,2.5,Sua viagem de thursday à noite com a Uber,2021-12-09 17:38:49,True,9,12,2021,17,2021-12-09,2021-12
+6173,noreply@uber.com,28.94,12.91,Sua viagem de friday de manhã com a Uber,2021-12-10 07:30:49,True,10,12,2021,7,2021-12-10,2021-12
+6174,noreply@uber.com,11.96,1.93,Sua viagem de friday de manhã com a Uber,2021-12-10 07:50:28,True,10,12,2021,7,2021-12-10,2021-12
+6178,noreply@uber.com,10.98,1.99,Sua viagem de friday de manhã com a Uber,2021-12-10 11:19:50,True,10,12,2021,11,2021-12-10,2021-12
+6181,noreply@uber.com,19.97,9.61,Sua viagem de friday à tarde com a Uber,2021-12-10 16:18:22,True,10,12,2021,16,2021-12-10,2021-12
+6187,noreply@uber.com,7.74,1.53,Sua viagem de sunday de manhã com a Uber,2021-12-12 07:08:39,True,12,12,2021,7,2021-12-12,2021-12
+6206,noreply@uber.com,8.41,2.09,Sua viagem de quarta-feira à tarde com a Uber,2021-12-15 14:37:21,True,15,12,2021,14,2021-12-15,2021-12
+6210,noreply@uber.com,9.74,2.59,Sua viagem de quarta-feira à noite com a Uber,2021-12-15 18:10:46,True,15,12,2021,18,2021-12-15,2021-12
+6219,noreply@uber.com,10.7,2.41,Sua viagem de sexta-feira à tarde com a Uber,2021-12-17 15:37:00,True,17,12,2021,15,2021-12-17,2021-12
+6221,noreply@uber.com,13.5,1.34,Sua viagem de sexta-feira à tarde com a Uber,2021-12-17 16:12:08,True,17,12,2021,16,2021-12-17,2021-12
+6222,noreply@uber.com,11.99,2.58,Sua viagem de sexta-feira à noite com a Uber,2021-12-17 18:41:39,True,17,12,2021,18,2021-12-17,2021-12
+6226,noreply@uber.com,11.54,2.19,Sua viagem de segunda-feira à tarde com a Uber,2021-12-20 12:43:22,True,20,12,2021,12,2021-12-20,2021-12
+6230,noreply@uber.com,10.91,1.33,Sua viagem de segunda-feira à noite com a Uber,2021-12-20 19:33:24,True,20,12,2021,19,2021-12-20,2021-12
+6238,noreply@uber.com,7.81,0.62,Sua viagem de terça-feira à tarde com a Uber,2021-12-21 13:02:24,True,21,12,2021,13,2021-12-21,2021-12
+6243,noreply@uber.com,8.52,0.6,Sua viagem de quarta-feira à tarde com a Uber,2021-12-22 13:02:13,True,22,12,2021,13,2021-12-22,2021-12
+6258,noreply@uber.com,7.81,0.62,Sua viagem de quinta-feira à tarde com a Uber,2021-12-23 12:55:15,True,23,12,2021,12,2021-12-23,2021-12
+6268,noreply@uber.com,10.64,1.49,Sua viagem de sexta-feira à tarde com a Uber,2021-12-24 15:09:06,True,24,12,2021,15,2021-12-24,2021-12
+6269,noreply@uber.com,15.2,9.15,Sua viagem de sexta-feira à noite com a Uber,2021-12-24 20:39:15,True,24,12,2021,20,2021-12-24,2021-12
+6271,noreply@uber.com,49.97,9.84,Sua viagem de sábado de manhã com a Uber,2021-12-25 02:22:04,True,25,12,2021,2,2021-12-25,2021-12
+6277,noreply@uber.com,8.52,0.62,Sua viagem de segunda-feira à tarde com a Uber,2021-12-27 12:45:08,True,27,12,2021,12,2021-12-27,2021-12
+6284,noreply@uber.com,5.24,0.6,Sua viagem de terça-feira à tarde com a Uber,2021-12-28 13:02:05,True,28,12,2021,13,2021-12-28,2021-12
+6289,noreply@uber.com,9.57,1.59,Sua viagem de terça-feira à noite com a Uber,2021-12-28 19:40:28,True,28,12,2021,19,2021-12-28,2021-12
+6291,noreply@uber.com,7.81,0.6,Sua viagem de quarta-feira à tarde com a Uber,2021-12-29 13:08:33,True,29,12,2021,13,2021-12-29,2021-12
+6295,noreply@uber.com,7.81,1.25,Sua viagem de quarta-feira à noite com a Uber,2021-12-29 19:45:28,True,29,12,2021,19,2021-12-29,2021-12
+6299,noreply@uber.com,5.89,0.62,Sua viagem de quinta-feira à tarde com a Uber,2021-12-30 13:06:24,True,30,12,2021,13,2021-12-30,2021-12
+6301,noreply@uber.com,7.81,1.25,Sua viagem de quinta-feira à noite com a Uber,2021-12-30 19:37:03,True,30,12,2021,19,2021-12-30,2021-12
+6304,noreply@uber.com,9.22,0.68,Sua viagem de sexta-feira à tarde com a Uber,2021-12-31 12:13:05,True,31,12,2021,12,2021-12-31,2021-12
+6305,noreply@uber.com,7.81,1.36,Sua viagem de sexta-feira à tarde com a Uber,2021-12-31 12:40:08,True,31,12,2021,12,2021-12-31,2021-12
+6307,noreply@uber.com,9.93,1.25,Sua viagem de sexta-feira à tarde com a Uber,2021-12-31 14:40:13,True,31,12,2021,14,2021-12-31,2021-12
+6310,noreply@uber.com,7.43,1.83,Sua viagem de segunda-feira à noite com a Uber,2022-01-03 17:52:17,True,3,1,2022,17,2022-01-03,2022-01
+6319,noreply@uber.com,7.81,0.62,Sua viagem de terça-feira à tarde com a Uber,2022-01-04 13:10:49,True,4,1,2022,13,2022-01-04,2022-01
+6322,noreply@uber.com,7.81,1.52,Sua viagem de terça-feira à noite com a Uber,2022-01-04 19:37:06,True,4,1,2022,19,2022-01-04,2022-01
+6326,noreply@uber.com,7.81,0.61,Sua viagem de quarta-feira à tarde com a Uber,2022-01-05 12:59:56,True,5,1,2022,12,2022-01-05,2022-01
+6330,noreply@uber.com,8.52,1.24,Sua viagem de quarta-feira à noite com a Uber,2022-01-05 19:24:01,True,5,1,2022,19,2022-01-05,2022-01
+6334,noreply@uber.com,7.81,0.6,Sua viagem de quinta-feira à tarde com a Uber,2022-01-06 13:04:22,True,6,1,2022,13,2022-01-06,2022-01
+6339,noreply@uber.com,7.81,1.28,Sua viagem de quinta-feira à noite com a Uber,2022-01-06 19:32:13,True,6,1,2022,19,2022-01-06,2022-01
+6340,noreply@uber.com,17.91,9.35,Sua viagem de sexta-feira de manhã com a Uber,2022-01-07 07:14:40,True,7,1,2022,7,2022-01-07,2022-01
+6341,noreply@uber.com,9.22,2.04,Sua viagem de sexta-feira de manhã com a Uber,2022-01-07 07:43:51,True,7,1,2022,7,2022-01-07,2022-01
+6347,noreply@uber.com,23.77,9.67,Sua viagem de sexta-feira à tarde com a Uber,2022-01-07 14:21:41,True,7,1,2022,14,2022-01-07,2022-01
+6352,noreply@uber.com,8.13,2.14,Sua viagem de segunda-feira à tarde com a Uber,2022-01-10 15:07:21,True,10,1,2022,15,2022-01-10,2022-01
+6353,noreply@uber.com,7.81,1.1,Sua viagem de segunda-feira à tarde com a Uber,2022-01-10 15:25:26,True,10,1,2022,15,2022-01-10,2022-01
+6354,noreply@uber.com,16.3,2.76,Sua viagem de segunda-feira à noite com a Uber,2022-01-10 17:30:18,True,10,1,2022,17,2022-01-10,2022-01
+6357,noreply@uber.com,5.07,0.74,Sua viagem de terça-feira de manhã com a Uber,2022-01-11 06:14:59,True,11,1,2022,6,2022-01-11,2022-01
+6366,noreply@uber.com,8.52,0.62,Sua viagem de terça-feira à noite com a Uber,2022-01-11 21:51:55,True,11,1,2022,21,2022-01-11,2022-01
+6385,noreply@uber.com,8.38,2.12,Sua viagem de sexta-feira à tarde com a Uber,2022-01-14 16:30:33,True,14,1,2022,16,2022-01-14,2022-01
+6386,noreply@uber.com,12.15,2.72,Sua viagem de sexta-feira à noite com a Uber,2022-01-14 19:59:21,True,14,1,2022,19,2022-01-14,2022-01
+6389,noreply@uber.com,7.81,1.04,Sua viagem de domingo de manhã com a Uber,2022-01-16 07:31:03,True,16,1,2022,7,2022-01-16,2022-01
+6395,noreply@uber.com,10.23,3.22,Sua viagem de segunda-feira à tarde com a Uber,2022-01-17 16:15:37,True,17,1,2022,16,2022-01-17,2022-01
+6396,noreply@uber.com,7.18,3.14,Sua viagem de segunda-feira à noite com a Uber,2022-01-17 19:02:09,True,17,1,2022,19,2022-01-17,2022-01
+6407,noreply@uber.com,14.96,7.01,Sua viagem de quinta-feira de manhã com a Uber,2022-01-20 10:07:15,True,20,1,2022,10,2022-01-20,2022-01
+6419,noreply@uber.com,9.2,2.82,Sua viagem de sábado à noite com a Uber,2022-01-22 18:24:39,True,22,1,2022,18,2022-01-22,2022-01
+6420,noreply@uber.com,7.74,2.33,Sua viagem de sábado à noite com a Uber,2022-01-22 20:42:01,True,22,1,2022,20,2022-01-22,2022-01
+6448,noreply@uber.com,7.74,1.89,Sua viagem de quarta-feira à tarde com a Uber,2022-01-26 12:45:24,True,26,1,2022,12,2022-01-26,2022-01
+6450,noreply@uber.com,7.73,1.78,Sua viagem de quarta-feira à tarde com a Uber,2022-01-26 15:50:36,True,26,1,2022,15,2022-01-26,2022-01
+6465,noreply@uber.com,8.25,2.2,Sua viagem de sexta-feira à tarde com a Uber,2022-01-28 14:58:44,True,28,1,2022,14,2022-01-28,2022-01
+6468,noreply@uber.com,14.95,2.65,Sua viagem de sexta-feira à noite com a Uber,2022-01-28 18:08:48,True,28,1,2022,18,2022-01-28,2022-01
+6475,noreply@uber.com,7.74,1.19,Sua viagem de segunda-feira à tarde com a Uber,2022-01-31 14:42:55,True,31,1,2022,14,2022-01-31,2022-01
+6487,noreply@uber.com,6.46,1.39,Sua viagem de terça-feira à tarde com a Uber,2022-02-01 14:36:24,True,1,2,2022,14,2022-02-01,2022-02
+6496,noreply@uber.com,7.73,1.0,Sua viagem de quarta-feira à tarde com a Uber,2022-02-02 15:59:49,True,2,2,2022,15,2022-02-02,2022-02
+6512,noreply@uber.com,22.94,9.46,Sua viagem de segunda-feira de manhã com a Uber,2022-02-07 07:36:24,True,7,2,2022,7,2022-02-07,2022-02
+6513,noreply@uber.com,15.17,1.76,Sua viagem de segunda-feira de manhã com a Uber,2022-02-07 08:10:12,True,7,2,2022,8,2022-02-07,2022-02
+6517,noreply@uber.com,16.92,9.48,Sua viagem de segunda-feira à tarde com a Uber,2022-02-07 15:04:26,True,7,2,2022,15,2022-02-07,2022-02
+6527,noreply@uber.com,5.71,2.17,Sua viagem de quarta-feira à tarde com a Uber,2022-02-09 15:30:36,True,9,2,2022,15,2022-02-09,2022-02
+6528,noreply@uber.com,12.96,2.63,Sua viagem de quarta-feira à noite com a Uber,2022-02-09 18:30:55,True,9,2,2022,18,2022-02-09,2022-02
+6532,noreply@uber.com,7.73,1.53,Sua viagem de quinta-feira de manhã com a Uber,2022-02-10 09:42:13,True,10,2,2022,9,2022-02-10,2022-02
+6534,noreply@uber.com,8.37,1.56,Sua viagem de quinta-feira de manhã com a Uber,2022-02-10 10:20:26,True,10,2,2022,10,2022-02-10,2022-02
+6535,noreply@uber.com,7.73,0.9,Sua viagem de quinta-feira de manhã com a Uber,2022-02-10 11:49:23,True,10,2,2022,11,2022-02-10,2022-02
+6539,noreply@uber.com,7.73,1.25,Sua viagem de quinta-feira à tarde com a Uber,2022-02-10 16:20:27,True,10,2,2022,16,2022-02-10,2022-02
+6551,noreply@uber.com,7.74,1.22,Sua viagem de segunda-feira à tarde com a Uber,2022-02-14 16:43:34,True,14,2,2022,16,2022-02-14,2022-02
+6559,noreply@uber.com,7.1,1.23,Sua viagem de terça-feira à tarde com a Uber,2022-02-15 17:01:03,True,15,2,2022,17,2022-02-15,2022-02
+6564,noreply@uber.com,7.73,1.5,Sua viagem de quarta-feira à tarde com a Uber,2022-02-16 16:52:56,True,16,2,2022,16,2022-02-16,2022-02
+6600,noreply@uber.com,7.73,0.6,Sua viagem de terça-feira à noite com a Uber,2022-02-22 20:53:33,True,22,2,2022,20,2022-02-22,2022-02
+6607,noreply@uber.com,8.76,2.12,Sua viagem de quarta-feira à tarde com a Uber,2022-02-23 15:01:58,True,23,2,2022,15,2022-02-23,2022-02
+6609,noreply@uber.com,7.74,0.99,Sua viagem de quarta-feira à tarde com a Uber,2022-02-23 16:18:12,True,23,2,2022,16,2022-02-23,2022-02
+6611,noreply@uber.com,7.74,1.25,Sua viagem de quarta-feira à tarde com a Uber,2022-02-23 16:54:26,True,23,2,2022,16,2022-02-23,2022-02
+6612,noreply@uber.com,12.27,3.56,Sua viagem de quarta-feira à tarde com a Uber,2022-02-23 16:59:14,True,23,2,2022,16,2022-02-23,2022-02
+6614,noreply@uber.com,7.73,1.02,Sua viagem de quarta-feira à noite com a Uber,2022-02-23 19:26:50,True,23,2,2022,19,2022-02-23,2022-02
+6623,noreply@uber.com,7.73,1.5,Sua viagem de quinta-feira à tarde com a Uber,2022-02-24 16:49:28,True,24,2,2022,16,2022-02-24,2022-02
+6684,noreply@uber.com,9.86,3.1,Sua viagem de sábado de manhã com a Uber,2022-03-05 09:12:13,True,5,3,2022,9,2022-03-05,2022-03
+6685,noreply@uber.com,7.73,1.06,Sua viagem de sábado de manhã com a Uber,2022-03-05 09:41:03,True,5,3,2022,9,2022-03-05,2022-03
+6696,noreply@uber.com,12.9,4.26,Sua viagem de terça-feira à tarde com a Uber,2022-03-08 15:50:22,True,8,3,2022,15,2022-03-08,2022-03
+6697,noreply@uber.com,12.97,3.15,Sua viagem de terça-feira à noite com a Uber,2022-03-08 17:47:47,True,8,3,2022,17,2022-03-08,2022-03
+6698,noreply@uber.com,15.95,2.83,Sua viagem de terça-feira à noite com a Uber,2022-03-08 22:06:04,True,8,3,2022,22,2022-03-08,2022-03
+6702,noreply@uber.com,24.94,9.34,Sua viagem de quarta-feira à tarde com a Uber,2022-03-09 13:19:53,True,9,3,2022,13,2022-03-09,2022-03
+6704,noreply@uber.com,10.52,2.03,Sua viagem de quarta-feira à tarde com a Uber,2022-03-09 14:35:04,True,9,3,2022,14,2022-03-09,2022-03
+6708,noreply@uber.com,20.99,9.89,Sua viagem de quarta-feira à noite com a Uber,2022-03-09 18:54:02,True,9,3,2022,18,2022-03-09,2022-03
+6711,noreply@uber.com,8.94,2.2,Sua viagem de quinta-feira de manhã com a Uber,2022-03-10 08:40:10,True,10,3,2022,8,2022-03-10,2022-03
+6714,noreply@uber.com,7.74,1.4,Sua viagem de quinta-feira de manhã com a Uber,2022-03-10 10:14:46,True,10,3,2022,10,2022-03-10,2022-03
+6717,noreply@uber.com,9.95,2.86,Sua viagem de quinta-feira à tarde com a Uber,2022-03-10 13:52:57,True,10,3,2022,13,2022-03-10,2022-03
+6723,noreply@uber.com,9.95,2.15,Sua viagem de quinta-feira à tarde com a Uber,2022-03-10 15:48:46,True,10,3,2022,15,2022-03-10,2022-03
+6726,noreply@uber.com,7.73,0.6,Sua viagem de quinta-feira à noite com a Uber,2022-03-10 20:50:14,True,10,3,2022,20,2022-03-10,2022-03
+6738,noreply@uber.com,15.96,6.33,Sua viagem de domingo de manhã com a Uber,2022-03-13 07:40:11,True,13,3,2022,7,2022-03-13,2022-03
+6739,noreply@uber.com,15.91,7.14,Sua viagem de domingo de manhã com a Uber,2022-03-13 07:45:49,True,13,3,2022,7,2022-03-13,2022-03
+6741,noreply@uber.com,19.91,8.1,Sua viagem de domingo de manhã com a Uber,2022-03-13 11:12:21,True,13,3,2022,11,2022-03-13,2022-03
+6742,noreply@uber.com,31.94,7.87,Sua viagem de domingo à tarde com a Uber,2022-03-13 12:34:16,True,13,3,2022,12,2022-03-13,2022-03
+6769,noreply@uber.com,8.95,2.19,Sua viagem de sexta-feira à tarde com a Uber,2022-03-18 16:07:42,True,18,3,2022,16,2022-03-18,2022-03
+6770,noreply@uber.com,17.91,3.13,Sua viagem de sexta-feira à noite com a Uber,2022-03-18 17:40:44,True,18,3,2022,17,2022-03-18,2022-03
+6773,noreply@uber.com,8.24,0.65,Sua viagem de sábado à noite com a Uber,2022-03-19 21:29:29,True,19,3,2022,21,2022-03-19,2022-03
+6774,noreply@uber.com,8.24,0.45,Sua viagem de domingo de manhã com a Uber,2022-03-20 00:30:06,True,20,3,2022,0,2022-03-20,2022-03
+6775,noreply@uber.com,19.94,6.99,Sua viagem de domingo de manhã com a Uber,2022-03-20 06:04:19,True,20,3,2022,6,2022-03-20,2022-03
+6777,noreply@uber.com,24.92,7.4,Sua viagem de domingo à noite com a Uber,2022-03-20 20:01:25,True,20,3,2022,20,2022-03-20,2022-03
+6789,noreply@uber.com,12.98,3.76,Sua viagem de quarta-feira de manhã com a Uber,2022-03-23 08:52:31,True,23,3,2022,8,2022-03-23,2022-03
+6790,noreply@uber.com,12.94,3.35,Sua viagem de quarta-feira de manhã com a Uber,2022-03-23 09:31:44,True,23,3,2022,9,2022-03-23,2022-03
+6798,noreply@uber.com,14.94,1.25,Sua viagem de quarta-feira à noite com a Uber,2022-03-23 17:36:19,True,23,3,2022,17,2022-03-23,2022-03
+6803,noreply@uber.com,19.96,6.95,Sua viagem de quinta-feira de manhã com a Uber,2022-03-24 08:19:44,True,24,3,2022,8,2022-03-24,2022-03
+6815,noreply@uber.com,9.96,2.19,Sua viagem de sexta-feira à tarde com a Uber,2022-03-25 15:14:37,True,25,3,2022,15,2022-03-25,2022-03
+6816,noreply@uber.com,10.91,2.62,Sua viagem de sexta-feira à noite com a Uber,2022-03-25 18:13:10,True,25,3,2022,18,2022-03-25,2022-03
+6822,noreply@uber.com,20.99,6.95,Sua viagem de domingo de manhã com a Uber,2022-03-27 06:19:55,True,27,3,2022,6,2022-03-27,2022-03
+6826,noreply@uber.com,8.24,1.34,Sua viagem de domingo de manhã com a Uber,2022-03-27 09:36:07,True,27,3,2022,9,2022-03-27,2022-03
+6827,noreply@uber.com,8.24,1.37,Sua viagem de domingo de manhã com a Uber,2022-03-27 10:05:30,True,27,3,2022,10,2022-03-27,2022-03
+6828,noreply@uber.com,8.24,1.33,Sua viagem de domingo de manhã com a Uber,2022-03-27 11:43:43,True,27,3,2022,11,2022-03-27,2022-03
+6829,noreply@uber.com,8.24,1.46,Sua viagem de domingo de manhã com a Uber,2022-03-27 11:58:29,True,27,3,2022,11,2022-03-27,2022-03
+6833,noreply@uber.com,29.93,7.38,Sua viagem de domingo à noite com a Uber,2022-03-27 19:59:28,True,27,3,2022,19,2022-03-27,2022-03
+6845,noreply@uber.com,8.91,2.2,Sua viagem de quarta-feira de manhã com a Uber,2022-03-30 10:31:52,True,30,3,2022,10,2022-03-30,2022-03
+6846,noreply@uber.com,14.99,3.58,Sua viagem de quarta-feira de manhã com a Uber,2022-03-30 11:59:43,True,30,3,2022,11,2022-03-30,2022-03
+6852,noreply@uber.com,8.24,0.87,Sua viagem de quinta-feira à tarde com a Uber,2022-03-31 14:07:17,True,31,3,2022,14,2022-03-31,2022-03
+6868,noreply@uber.com,22.49,9.19,Sua viagem de segunda-feira de manhã com a Uber,2022-04-04 06:34:21,True,4,4,2022,6,2022-04-04,2022-04
+6871,noreply@uber.com,19.99,9.83,Sua viagem de segunda-feira à tarde com a Uber,2022-04-04 15:37:26,True,4,4,2022,15,2022-04-04,2022-04
+6884,noreply@uber.com,8.24,1.41,Sua viagem de quarta-feira de manhã com a Uber,2022-04-06 09:54:29,True,6,4,2022,9,2022-04-06,2022-04
+6885,noreply@uber.com,8.24,1.6,Sua viagem de quarta-feira de manhã com a Uber,2022-04-06 11:20:34,True,6,4,2022,11,2022-04-06,2022-04
+6900,noreply@uber.com,8.24,1.29,Sua viagem de sexta-feira de manhã com a Uber,2022-04-08 09:48:43,True,8,4,2022,9,2022-04-08,2022-04
+6901,noreply@uber.com,8.24,1.01,Sua viagem de sexta-feira de manhã com a Uber,2022-04-08 10:12:50,True,8,4,2022,10,2022-04-08,2022-04
+6903,noreply@uber.com,20.85,9.26,Sua viagem de sexta-feira à tarde com a Uber,2022-04-08 13:01:32,True,8,4,2022,13,2022-04-08,2022-04
+6932,noreply@uber.com,8.24,0.62,Sua viagem de quarta-feira à tarde com a Uber,2022-04-13 14:30:57,True,13,4,2022,14,2022-04-13,2022-04
+6935,noreply@uber.com,8.32,1.63,Sua viagem de quinta-feira de manhã com a Uber,2022-04-14 08:30:43,True,14,4,2022,8,2022-04-14,2022-04
+6936,noreply@uber.com,11.91,3.01,Sua viagem de quinta-feira de manhã com a Uber,2022-04-14 09:36:39,True,14,4,2022,9,2022-04-14,2022-04
+6947,noreply@uber.com,8.24,0.98,Sua viagem de sábado à tarde com a Uber,2022-04-16 12:34:33,True,16,4,2022,12,2022-04-16,2022-04
+6974,noreply@uber.com,9.95,2.91,Sua viagem de sexta-feira de manhã com a Uber,2022-04-22 10:21:41,True,22,4,2022,10,2022-04-22,2022-04
+6978,noreply@uber.com,9.93,2.35,Sua viagem de sexta-feira à noite com a Uber,2022-04-22 19:16:39,True,22,4,2022,19,2022-04-22,2022-04
+6990,noreply@uber.com,8.24,1.42,Sua viagem de segunda-feira de manhã com a Uber,2022-04-25 09:36:30,True,25,4,2022,9,2022-04-25,2022-04
+7030,noreply@uber.com,13.96,3.6,Sua viagem de sábado à noite com a Uber,2022-04-30 19:35:16,True,30,4,2022,19,2022-04-30,2022-04
+7031,noreply@uber.com,13.98,2.87,Sua viagem de sábado à noite com a Uber,2022-04-30 22:43:43,True,30,4,2022,22,2022-04-30,2022-04
+7043,noreply@uber.com,12.95,2.13,Sua viagem de terça-feira à tarde com a Uber,2022-05-03 14:38:52,True,3,5,2022,14,2022-05-03,2022-05
+7044,noreply@uber.com,16.99,3.01,Sua viagem de terça-feira à tarde com a Uber,2022-05-03 15:59:50,True,3,5,2022,15,2022-05-03,2022-05
+7064,noreply@uber.com,26.96,9.64,Sua viagem de sábado de manhã com a Uber,2022-05-07 07:14:54,True,7,5,2022,7,2022-05-07,2022-05
+7065,noreply@uber.com,13.96,1.74,Sua viagem de sábado de manhã com a Uber,2022-05-07 08:17:42,True,7,5,2022,8,2022-05-07,2022-05
+7076,noreply@uber.com,8.53,0.9,Sua viagem de terça-feira à tarde com a Uber,2022-05-10 14:23:07,True,10,5,2022,14,2022-05-10,2022-05
+7077,noreply@uber.com,8.53,0.97,Sua viagem de terça-feira à tarde com a Uber,2022-05-10 16:04:46,True,10,5,2022,16,2022-05-10,2022-05
+7109,noreply@uber.com,10.94,1.06,Sua viagem de terça-feira à tarde com a Uber,2022-05-17 15:24:45,True,17,5,2022,15,2022-05-17,2022-05
+7110,noreply@uber.com,8.53,1.12,Sua viagem de terça-feira à tarde com a Uber,2022-05-17 15:32:57,True,17,5,2022,15,2022-05-17,2022-05
+7112,noreply@uber.com,11.94,2.61,Sua viagem de terça-feira à tarde com a Uber,2022-05-17 17:04:04,True,17,5,2022,17,2022-05-17,2022-05
+7126,noreply@uber.com,8.53,0.9,Sua viagem de sexta-feira de manhã com a Uber,2022-05-20 10:14:45,True,20,5,2022,10,2022-05-20,2022-05
+7145,noreply@uber.com,10.96,2.87,Sua viagem de segunda-feira de manhã com a Uber,2022-05-23 10:27:51,True,23,5,2022,10,2022-05-23,2022-05
+7150,noreply@uber.com,10.92,2.32,Sua viagem de segunda-feira à tarde com a Uber,2022-05-23 13:55:36,True,23,5,2022,13,2022-05-23,2022-05
+7192,noreply@uber.com,9.96,2.21,Sua viagem de quarta-feira à tarde com a Uber,2022-06-01 14:08:24,True,1,6,2022,14,2022-06-01,2022-06
+7193,noreply@uber.com,13.95,2.65,Sua viagem de quarta-feira à tarde com a Uber,2022-06-01 15:51:17,True,1,6,2022,15,2022-06-01,2022-06
+7206,noreply@uber.com,7.6,2.23,[Família] Sua viagem de segunda-feira demanhã com a Uber,2022-06-06 11:15:32,False,6,6,2022,11,2022-06-06,2022-06
+7213,noreply@uber.com,29.9,11.09,[Família] Sua viagem deterça-feira à tarde com a Uber,2022-06-07 17:31:42,False,7,6,2022,17,2022-06-07,2022-06
+7254,noreply@uber.com,11.93,3.28,[Família] Sua viagem de segunda-feira demanhã com a Uber,2022-06-20 11:24:50,False,20,6,2022,11,2022-06-20,2022-06
+7255,noreply@uber.com,10.96,2.32,[Família] Sua viagem de segunda-feiraà tarde com a Uber,2022-06-20 15:56:44,False,20,6,2022,15,2022-06-20,2022-06
+7260,noreply@uber.com,8.53,0.87,Sua viagem de terça-feira de manhã com a Uber,2022-06-21 08:03:26,True,21,6,2022,8,2022-06-21,2022-06
+7261,noreply@uber.com,8.99,1.81,Sua viagem de terça-feira de manhã com a Uber,2022-06-21 09:28:05,True,21,6,2022,9,2022-06-21,2022-06
+7263,noreply@uber.com,14.91,3.0,[Família] Sua viagem de terça-feira demanhã com a Uber,2022-06-21 10:45:40,False,21,6,2022,10,2022-06-21,2022-06
+7264,noreply@uber.com,13.98,3.15,[Família] Sua viagem de terça-feira demanhã com a Uber,2022-06-21 11:55:58,False,21,6,2022,11,2022-06-21,2022-06
+7267,noreply@uber.com,8.53,1.13,[Família] Sua viagem deterça-feira à noite com a Uber,2022-06-21 18:30:49,False,21,6,2022,18,2022-06-21,2022-06
+7268,noreply@uber.com,8.53,1.83,[Família] Sua viagem de terça-feira à noite com a Uber,2022-06-21 20:47:02,False,21,6,2022,20,2022-06-21,2022-06
+7271,noreply@uber.com,24.96,8.76,[Família] Sua viagem de quinta-feira demanhã com a Uber,2022-06-23 07:17:12,False,23,6,2022,7,2022-06-23,2022-06
+7276,noreply@uber.com,24.92,10.31,[Família] Sua viagem de quinta-feiraà tarde com a Uber,2022-06-23 14:08:55,False,23,6,2022,14,2022-06-23,2022-06
+7284,noreply@uber.com,7.11,0.91,Sua viagem de terça-feira de manhã com a Uber,2022-06-28 08:43:13,True,28,6,2022,8,2022-06-28,2022-06
+7286,noreply@uber.com,8.53,1.46,Sua viagem de terça-feira de manhã com a Uber,2022-06-28 10:33:39,True,28,6,2022,10,2022-06-28,2022-06
+7290,noreply@uber.com,15.05,3.74,[Família] Sua viagem de quarta-feira demanhã com a Uber,2022-06-29 10:53:59,False,29,6,2022,10,2022-06-29,2022-06
+7294,noreply@uber.com,13.97,3.1,[Família] Sua viagem de quarta-feiraà tarde com a Uber,2022-06-29 14:04:58,False,29,6,2022,14,2022-06-29,2022-06
+7308,noreply@uber.com,19.96,4.07,[Família] Sua viagem de sexta-feira demanhã com a Uber,2022-07-01 12:21:38,False,1,7,2022,12,2022-07-01,2022-07
+7317,noreply@uber.com,6.41,0.9,Sua viagem de terça-feira de manhã com a Uber,2022-07-05 08:42:25,True,5,7,2022,8,2022-07-05,2022-07
+7318,noreply@uber.com,8.94,1.84,Sua viagem de terça-feira de manhã com a Uber,2022-07-05 09:11:21,True,5,7,2022,9,2022-07-05,2022-07
+7333,noreply@uber.com,24.97,10.16,[Família] Sua viagem de sexta-feira demanhã com a Uber,2022-07-08 07:37:06,False,8,7,2022,7,2022-07-08,2022-07
+7334,noreply@uber.com,9.99,1.73,[Família] Sua viagem de sexta-feira demanhã com a Uber,2022-07-08 08:18:20,False,8,7,2022,8,2022-07-08,2022-07
+7341,noreply@uber.com,19.94,9.44,[Família] Sua viagem de sexta-feiraà noite com a Uber,2022-07-08 17:23:12,False,8,7,2022,17,2022-07-08,2022-07
+7370,noreply@uber.com,13.91,3.59,Sua viagem de sábado de manhã com a Uber,2022-07-16 12:11:58,True,16,7,2022,12,2022-07-16,2022-07
+7372,noreply@uber.com,8.98,2.13,[Família] Sua viagem de sábado à tarde com a Uber,2022-07-16 16:14:56,False,16,7,2022,16,2022-07-16,2022-07
+7385,noreply@uber.com,12.93,3.21,[Família] Sua viagem deterça-feira à noite com a Uber,2022-07-19 17:41:42,False,19,7,2022,17,2022-07-19,2022-07
+7386,noreply@uber.com,9.91,2.48,[Família] Sua viagem deterça-feira à noite com a Uber,2022-07-19 21:52:22,False,19,7,2022,21,2022-07-19,2022-07
+7439,noreply@uber.com,12.9,3.09,[Família] Sua viagem de segunda-feiraà tarde com a Uber,2022-08-01 14:53:24,False,1,8,2022,14,2022-08-01,2022-08
+7442,noreply@uber.com,12.92,3.38,[Família] Sua viagem de segunda-feiraà tarde com a Uber,2022-08-01 17:10:28,False,1,8,2022,17,2022-08-01,2022-08
+7447,noreply@uber.com,8.53,0.91,Sua viagem de terça-feira de manhã com a Uber,2022-08-02 08:10:42,True,2,8,2022,8,2022-08-02,2022-08
+7448,noreply@uber.com,9.93,1.85,Falha no pagamento da sua viagem deterça-feira de manhã com a Uber,2022-08-02 08:33:20,True,2,8,2022,8,2022-08-02,2022-08
+7449,noreply@uber.com,9.93,1.85,Sua viagem de terça-feira de manhã com a Uber,2022-08-02 08:43:06,True,2,8,2022,8,2022-08-02,2022-08
+7457,noreply@uber.com,8.53,1.01,[Família] Sua viagem de terça-feira à noite com a Uber,2022-08-02 20:13:57,False,2,8,2022,20,2022-08-02,2022-08
+7479,noreply@uber.com,41.16,15.72,[Família] Sua viagem de sexta-feira demanhã com a Uber,2022-08-05 08:42:33,False,5,8,2022,8,2022-08-05,2022-08
+7480,noreply@uber.com,10.92,1.97,[Família] Sua viagem de sexta-feira demanhã com a Uber,2022-08-05 08:53:13,False,5,8,2022,8,2022-08-05,2022-08
+7486,noreply@uber.com,19.9,9.31,[Família] Sua viagem de sexta-feiraà tarde com a Uber,2022-08-05 17:21:45,False,5,8,2022,17,2022-08-05,2022-08
+7506,noreply@uber.com,17.15,3.36,[Família] Sua viagem deterça-feira à tarde com a Uber,2022-08-09 12:30:30,False,9,8,2022,12,2022-08-09,2022-08
+7511,noreply@uber.com,9.76,1.95,[Família] Sua viagem deterça-feira à tarde com a Uber,2022-08-09 16:39:05,False,9,8,2022,16,2022-08-09,2022-08
+7534,noreply@uber.com,9.5,1.72,[Família] Sua viagem de sexta-feira à tarde com a Uber,2022-08-12 15:15:28,False,12,8,2022,15,2022-08-12,2022-08
+7540,noreply@uber.com,16.95,2.19,[Família] Sua viagem de domingo demanhã com a Uber,2022-08-14 06:52:55,False,14,8,2022,6,2022-08-14,2022-08
+7556,noreply@uber.com,10.93,2.14,[Família] Sua viagem deterça-feira à tarde com a Uber,2022-08-16 15:01:10,False,16,8,2022,15,2022-08-16,2022-08
+7560,noreply@uber.com,16.95,4.41,[Família] Sua viagem deterça-feira à noite com a Uber,2022-08-16 18:33:11,False,16,8,2022,18,2022-08-16,2022-08
+7567,noreply@uber.com,7.47,2.33,Sua viagem de quarta-feira à tarde com a Uber,2022-08-17 13:14:10,True,17,8,2022,13,2022-08-17,2022-08
+7587,noreply@uber.com,8.9,1.92,[Família] Sua viagem de sexta-feiraà tarde com a Uber,2022-08-19 12:31:16,False,19,8,2022,12,2022-08-19,2022-08
+7591,noreply@uber.com,9.98,2.2,[Família] Sua viagem de sábado à noite com a Uber,2022-08-20 17:24:27,False,20,8,2022,17,2022-08-20,2022-08
+7595,noreply@uber.com,8.53,1.23,[Família] Sua viagem de domingo àtarde com a Uber,2022-08-21 12:11:55,False,21,8,2022,12,2022-08-21,2022-08
+7666,noreply@uber.com,10.99,2.3,[Família] Sua viagem de segunda-feiraà tarde com a Uber,2022-09-05 14:15:33,False,5,9,2022,14,2022-09-05,2022-09
+7689,noreply@uber.com,29.9,14.77,[Família] Sua viagem de sexta-feira demanhã com a Uber,2022-09-09 07:17:23,False,9,9,2022,7,2022-09-09,2022-09
+7695,noreply@uber.com,19.96,8.44,[Família] Sua viagem de segunda-feiraà noite com a Uber,2022-09-12 21:20:42,False,12,9,2022,21,2022-09-12,2022-09
+7739,noreply@uber.com,24.92,7.66,[Família] Sua viagem de segunda-feiraà noite com a Uber,2022-09-19 21:44:35,False,19,9,2022,21,2022-09-19,2022-09
+7757,noreply@uber.com,10.9,2.86,[Família] Sua viagem de quinta-feira demanhã com a Uber,2022-09-22 09:44:13,False,22,9,2022,9,2022-09-22,2022-09
+7762,noreply@uber.com,14.9,2.6,[Família] Sua viagem de quinta-feiraà tarde com a Uber,2022-09-22 12:38:28,False,22,9,2022,12,2022-09-22,2022-09
+7775,noreply@uber.com,8.69,1.54,[Família] Sua viagem de sexta-feiraà noite com a Uber,2022-09-23 19:29:35,False,23,9,2022,19,2022-09-23,2022-09
+7878,noreply@uber.com,12.97,2.18,[Família] Sua viagem deterça-feira à tarde com a Uber,2022-10-11 16:29:58,False,11,10,2022,16,2022-10-11,2022-10
+7880,noreply@uber.com,14.97,2.9,[Família] Sua viagem deterça-feira à noite com a Uber,2022-10-11 17:49:39,False,11,10,2022,17,2022-10-11,2022-10
+7956,noreply@uber.com,19.91,8.36,[Família] Sua viagem de sábado demanhã com a Uber,2022-10-22 10:34:49,False,22,10,2022,10,2022-10-22,2022-10
+7957,noreply@uber.com,21.9,9.64,[Família] Sua viagem de sábado à tarde com a Uber,2022-10-22 15:48:15,False,22,10,2022,15,2022-10-22,2022-10
+7975,noreply@uber.com,8.73,0.59,[Família] Sua viagem deterça-feira à noite com a Uber,2022-10-25 21:05:58,False,25,10,2022,21,2022-10-25,2022-10
+8017,noreply@uber.com,9.99,2.17,[Família] Sua viagem de terça-feira à tarde com a Uber,2022-11-01 16:08:02,False,1,11,2022,16,2022-11-01,2022-11
+8018,noreply@uber.com,14.95,2.25,[Família] Sua viagem deterça-feira à noite com a Uber,2022-11-01 18:19:12,False,1,11,2022,18,2022-11-01,2022-11
+8020,noreply@uber.com,27.94,10.02,[Família] Sua viagem deterça-feira à noite com a Uber,2022-11-01 23:35:08,False,1,11,2022,23,2022-11-01,2022-11
+8054,noreply@uber.com,8.03,1.47,[Família] Sua viagem de domingo àtarde com a Uber,2022-11-06 13:45:47,False,6,11,2022,13,2022-11-06,2022-11
+8056,noreply@uber.com,8.11,1.01,[Família] Sua viagem de domingo ànoite com a Uber,2022-11-06 18:46:07,False,6,11,2022,18,2022-11-06,2022-11
+8062,noreply@uber.com,30.01,10.05,[Família] Sua viagem de terça-feira demanhã com a Uber,2022-11-08 07:47:50,False,8,11,2022,7,2022-11-08,2022-11
+8063,noreply@uber.com,19.49,2.25,[Família] Sua viagem de terça-feira demanhã com a Uber,2022-11-08 08:16:32,False,8,11,2022,8,2022-11-08,2022-11
+8068,noreply@uber.com,15.58,4.05,[Família] Sua viagem deterça-feira à tarde com a Uber,2022-11-08 12:20:57,False,8,11,2022,12,2022-11-08,2022-11
+8072,noreply@uber.com,8.92,1.95,[Família] Sua viagem deterça-feira à tarde com a Uber,2022-11-08 16:56:53,False,8,11,2022,16,2022-11-08,2022-11
+8073,noreply@uber.com,24.93,9.49,[Família] Sua viagem deterça-feira à noite com a Uber,2022-11-08 17:40:38,False,8,11,2022,17,2022-11-08,2022-11
+8084,noreply@uber.com,14.92,3.25,[Família] Sua viagem de quarta-feiraà tarde com a Uber,2022-11-09 15:16:59,False,9,11,2022,15,2022-11-09,2022-11
+8085,noreply@uber.com,8.03,1.05,[Família] Sua viagem de quarta-feiraà tarde com a Uber,2022-11-09 16:42:12,False,9,11,2022,16,2022-11-09,2022-11
+8113,noreply@uber.com,8.03,0.66,[Família] Sua viagem de domingo demanhã com a Uber,2022-11-13 08:06:00,False,13,11,2022,8,2022-11-13,2022-11
+8116,noreply@uber.com,8.03,1.18,[Família] Sua viagem de domingo demanhã com a Uber,2022-11-13 12:02:08,False,13,11,2022,12,2022-11-13,2022-11
+8162,noreply@uber.com,12.99,3.98,[Família] Sua viagem de domingo àtarde com a Uber,2022-11-20 12:19:20,False,20,11,2022,12,2022-11-20,2022-11
+8163,noreply@uber.com,10.96,2.61,[Família] Sua viagem de domingo àtarde com a Uber,2022-11-20 12:37:34,False,20,11,2022,12,2022-11-20,2022-11
+8174,noreply@uber.com,9.99,1.79,Sua viagem de terça-feira de manhã com a Uber,2022-11-22 11:45:20,True,22,11,2022,11,2022-11-22,2022-11
+8176,noreply@uber.com,10.95,2.61,Sua viagem de terça-feira à tarde com a Uber,2022-11-22 12:36:36,True,22,11,2022,12,2022-11-22,2022-11
+8205,noreply@uber.com,10.99,2.18,Sua viagem de sexta-feira à tarde com a Uber,2022-11-25 16:51:49,True,25,11,2022,16,2022-11-25,2022-11
+8206,noreply@uber.com,13.96,3.01,Sua viagem de sexta-feira à noite com a Uber,2022-11-25 18:13:30,True,25,11,2022,18,2022-11-25,2022-11
+8258,noreply@uber.com,8.03,1.24,Sua viagem de domingo à tarde com a Uber,2022-12-04 12:11:22,True,4,12,2022,12,2022-12-04,2022-12
+8271,noreply@uber.com,9.96,2.04,[Família] Sua viagem deterça-feira à tarde com a Uber,2022-12-06 15:39:42,False,6,12,2022,15,2022-12-06,2022-12
+8274,noreply@uber.com,24.94,10.51,[Família] Sua viagem de quarta-feira demanhã com a Uber,2022-12-07 07:15:09,False,7,12,2022,7,2022-12-07,2022-12
+8276,noreply@uber.com,12.95,2.93,[Família] Sua viagem de quarta-feira demanhã com a Uber,2022-12-07 08:37:29,False,7,12,2022,8,2022-12-07,2022-12
+8282,noreply@uber.com,15.05,9.62,[Família] Sua viagem de quarta-feiraà tarde com a Uber,2022-12-07 17:03:53,False,7,12,2022,17,2022-12-07,2022-12
+8323,noreply@uber.com,19.99,7.65,[Família] Sua viagem de segunda-feiraà noite com a Uber,2022-12-12 21:17:27,False,12,12,2022,21,2022-12-12,2022-12
+8329,noreply@uber.com,11.92,2.63,[Família] Sua viagem deterça-feira à tarde com a Uber,2022-12-13 14:04:14,False,13,12,2022,14,2022-12-13,2022-12
+8343,noreply@uber.com,14.9,1.97,[Família] Sua viagem de sexta-feira à tarde com a Uber,2022-12-16 13:15:25,False,16,12,2022,13,2022-12-16,2022-12
+8348,noreply@uber.com,20.27,9.33,[Família] Sua viagem de sexta-feiraà tarde com a Uber,2022-12-16 16:27:52,False,16,12,2022,16,2022-12-16,2022-12
+8389,noreply@uber.com,11.99,2.77,[Família] Sua viagem de quinta-feira demanhã com a Uber,2022-12-22 09:54:42,False,22,12,2022,9,2022-12-22,2022-12
+8392,noreply@uber.com,14.98,3.6,[Família] Sua viagem de quinta-feira demanhã com a Uber,2022-12-22 11:41:23,False,22,12,2022,11,2022-12-22,2022-12
+8402,noreply@uber.com,8.03,0.6,Sua viagem de sexta-feira à tarde com a Uber,2022-12-23 12:53:44,True,23,12,2022,12,2022-12-23,2022-12
+8407,noreply@uber.com,9.99,1.21,Sua viagem de sexta-feira à noite com a Uber,2022-12-23 19:19:28,True,23,12,2022,19,2022-12-23,2022-12
+8412,noreply@uber.com,49.94,9.29,Sua viagem de domingo de manhã com a Uber,2022-12-25 03:04:49,True,25,12,2022,3,2022-12-25,2022-12
+8416,noreply@uber.com,8.03,0.6,Sua viagem de segunda-feira à tarde com a Uber,2022-12-26 13:08:47,True,26,12,2022,13,2022-12-26,2022-12
+8417,noreply@uber.com,8.03,1.24,Sua viagem de segunda-feira à noite com a Uber,2022-12-26 19:26:08,True,26,12,2022,19,2022-12-26,2022-12
+8419,noreply@uber.com,8.03,0.59,Sua viagem de terça-feira à tarde com a Uber,2022-12-27 13:02:26,True,27,12,2022,13,2022-12-27,2022-12
+8420,noreply@uber.com,8.03,1.24,Sua viagem de terça-feira à noite com a Uber,2022-12-27 19:21:31,True,27,12,2022,19,2022-12-27,2022-12
+8425,noreply@uber.com,8.03,0.61,Sua viagem de quarta-feira à tarde com a Uber,2022-12-28 12:40:45,True,28,12,2022,12,2022-12-28,2022-12
+8430,noreply@uber.com,8.03,1.25,Sua viagem de quarta-feira à noite com a Uber,2022-12-28 19:25:59,True,28,12,2022,19,2022-12-28,2022-12
+8435,noreply@uber.com,8.03,0.61,Sua viagem de quinta-feira à tarde com a Uber,2022-12-29 12:55:56,True,29,12,2022,12,2022-12-29,2022-12
+8440,noreply@uber.com,8.03,1.25,Sua viagem de quinta-feira à noite com a Uber,2022-12-29 19:19:44,True,29,12,2022,19,2022-12-29,2022-12
+8461,noreply@uber.com,7.32,0.63,Sua viagem de terça-feira à tarde com a Uber,2023-01-03 12:57:54,True,3,1,2023,12,2023-01-03,2023-01
+8464,noreply@uber.com,6.61,1.24,Sua viagem de terça-feira à noite com a Uber,2023-01-03 19:24:13,True,3,1,2023,19,2023-01-03,2023-01
+8467,noreply@uber.com,8.03,0.58,Sua viagem de quarta-feira à tarde com a Uber,2023-01-04 12:51:20,True,4,1,2023,12,2023-01-04,2023-01
+8470,noreply@uber.com,8.03,1.25,Sua viagem de quarta-feira à noite com a Uber,2023-01-04 19:26:02,True,4,1,2023,19,2023-01-04,2023-01
+8475,noreply@uber.com,8.03,0.61,Sua viagem de quinta-feira à tarde com a Uber,2023-01-05 12:42:28,True,5,1,2023,12,2023-01-05,2023-01
+8480,noreply@uber.com,8.03,1.51,Sua viagem de quinta-feira à noite com a Uber,2023-01-05 19:36:19,True,5,1,2023,19,2023-01-05,2023-01
+8483,noreply@uber.com,24.93,9.61,[Família] Sua viagem de sexta-feira demanhã com a Uber,2023-01-06 07:44:44,False,6,1,2023,7,2023-01-06,2023-01
+8484,noreply@uber.com,12.95,2.41,[Família] Sua viagem de sexta-feira demanhã com a Uber,2023-01-06 09:40:07,False,6,1,2023,9,2023-01-06,2023-01
+8487,noreply@uber.com,5.86,0.62,Sua viagem de sexta-feira à tarde com a Uber,2023-01-06 12:36:23,True,6,1,2023,12,2023-01-06,2023-01
+8490,noreply@uber.com,24.92,9.51,[Família] Sua viagem de sexta-feiraà noite com a Uber,2023-01-06 18:03:15,False,6,1,2023,18,2023-01-06,2023-01
+8491,noreply@uber.com,7.63,1.49,Sua viagem de sexta-feira à noite com a Uber,2023-01-06 19:33:07,True,6,1,2023,19,2023-01-06,2023-01
+8502,noreply@uber.com,11.9,2.5,[Família] Sua viagem de segunda-feira de manhã com a Uber,2023-01-09 12:01:07,False,9,1,2023,12,2023-01-09,2023-01
+8510,noreply@uber.com,8.03,1.23,Sua viagem de segunda-feira à tarde com a Uber,2023-01-09 16:39:09,True,9,1,2023,16,2023-01-09,2023-01
+8620,noreply@uber.com,8.75,0.61,[Família] Sua viagem de quarta-feiraà tarde com a Uber,2023-01-25 12:54:27,False,25,1,2023,12,2023-01-25,2023-01
+8654,noreply@uber.com,8.03,0.67,[Família] Sua viagem de sexta-feiraà tarde com a Uber,2023-01-27 14:03:01,False,27,1,2023,14,2023-01-27,2023-01
+8671,noreply@uber.com,14.91,2.08,[Família] Sua viagem de segunda-feiraà tarde com a Uber,2023-01-30 14:59:31,False,30,1,2023,14,2023-01-30,2023-01
+8717,noreply@uber.com,11.81,3.56,[Família] Sua viagem de sábado à noite com a Uber,2023-02-04 19:24:02,False,4,2,2023,19,2023-02-04,2023-02
+8718,noreply@uber.com,10.23,2.55,[Família] Sua viagem de sábado à noite com a Uber,2023-02-04 21:00:07,False,4,2,2023,21,2023-02-04,2023-02
+8737,noreply@uber.com,21.99,9.35,[Família] Sua viagem de quarta-feira demanhã com a Uber,2023-02-08 07:22:34,False,8,2,2023,7,2023-02-08,2023-02
+8738,noreply@uber.com,12.95,1.7,[Família] Sua viagem de quarta-feira demanhã com a Uber,2023-02-08 07:54:12,False,8,2,2023,7,2023-02-08,2023-02
+8743,noreply@uber.com,19.92,10.06,[Família] Sua viagem de quarta-feira demanhã com a Uber,2023-02-08 11:30:52,False,8,2,2023,11,2023-02-08,2023-02
+8751,noreply@uber.com,13.97,3.43,[Família] Sua viagem de quinta-feira demanhã com a Uber,2023-02-09 12:56:32,False,9,2,2023,12,2023-02-09,2023-02
+8752,noreply@uber.com,8.03,1.39,Sua viagem de quinta-feira de manhã com a Uber,2023-02-09 13:55:52,True,9,2,2023,13,2023-02-09,2023-02
+8771,noreply@uber.com,11.99,3.17,[Família] Sua viagem de sábado à tarde com a Uber,2023-02-11 13:52:13,False,11,2,2023,13,2023-02-11,2023-02
+8775,noreply@uber.com,11.62,2.82,[Família] Sua viagem de sábado à noite com a Uber,2023-02-11 19:23:16,False,11,2,2023,19,2023-02-11,2023-02
+8780,noreply@uber.com,11.92,1.74,[Família] Sua viagem de domingo àtarde com a Uber,2023-02-12 15:57:36,False,12,2,2023,15,2023-02-12,2023-02
+8801,noreply@uber.com,8.03,0.62,[Família] Sua viagem de segunda-feiraà noite com a Uber,2023-02-13 22:41:28,False,13,2,2023,22,2023-02-13,2023-02
+8817,noreply@uber.com,8.03,0.65,[Família] Sua viagem de quarta-feira à tarde com a Uber,2023-02-15 14:07:33,False,15,2,2023,14,2023-02-15,2023-02
+8860,noreply@uber.com,8.9,1.28,Sua viagem de terça-feira à tarde com a Uber,2023-02-21 15:44:20,True,21,2,2023,15,2023-02-21,2023-02
+8864,noreply@uber.com,8.4,2.23,Sua viagem de terça-feira à noite com a Uber,2023-02-21 17:19:20,True,21,2,2023,17,2023-02-21,2023-02
+8866,noreply@uber.com,8.03,1.29,Sua viagem de terça-feira à noite com a Uber,2023-02-21 19:03:22,True,21,2,2023,19,2023-02-21,2023-02
+8867,noreply@uber.com,8.93,1.91,Sua viagem de terça-feira à noite com a Uber,2023-02-21 19:36:21,True,21,2,2023,19,2023-02-21,2023-02
+8875,noreply@uber.com,8.31,1.75,Sua viagem de quarta-feira de manhã com a Uber,2023-02-22 08:45:06,True,22,2,2023,8,2023-02-22,2023-02
+8877,noreply@uber.com,8.75,2.2,Sua viagem de quarta-feira de manhã com a Uber,2023-02-22 09:03:21,True,22,2,2023,9,2023-02-22,2023-02
+8889,noreply@uber.com,8.75,1.83,[Família] Sua viagem de quarta-feiraà noite com a Uber,2023-02-22 20:10:17,False,22,2,2023,20,2023-02-22,2023-02
+8904,noreply@uber.com,8.03,1.31,[Família] Sua viagem de quinta-feiraà noite com a Uber,2023-02-23 17:16:47,False,23,2,2023,17,2023-02-23,2023-02
+8927,noreply@uber.com,8.03,1.02,[Família] Sua viagem de domingo ànoite com a Uber,2023-02-26 17:07:15,False,26,2,2023,17,2023-02-26,2023-02
+8928,noreply@uber.com,5.94,0.57,[Família] Sua viagem de domingo ànoite com a Uber,2023-02-26 21:10:27,False,26,2,2023,21,2023-02-26,2023-02
+8939,noreply@uber.com,8.03,0.67,[Família] Sua viagem deterça-feira à tarde com a Uber,2023-02-28 14:10:26,False,28,2,2023,14,2023-02-28,2023-02
+8983,noreply@uber.com,11.9,3.6,[Família] Sua viagem de sábado à noite com a Uber,2023-03-04 19:22:40,False,4,3,2023,19,2023-03-04,2023-03
+8984,noreply@uber.com,10.91,2.55,[Família] Sua viagem de sábado à noite com a Uber,2023-03-04 20:57:50,False,4,3,2023,20,2023-03-04,2023-03
+8999,noreply@uber.com,29.96,10.3,[Família] Sua viagem de terça-feira demanhã com a Uber,2023-03-07 07:42:15,False,7,3,2023,7,2023-03-07,2023-03
+9000,noreply@uber.com,34.96,10.3,[Família] Sua viagem de terça-feira demanhã com a Uber,2023-03-07 07:49:10,False,7,3,2023,7,2023-03-07,2023-03
+9001,noreply@uber.com,11.41,2.03,[Família] Sua viagem de terça-feira demanhã com a Uber,2023-03-07 08:08:40,False,7,3,2023,8,2023-03-07,2023-03
+9007,noreply@uber.com,22.95,9.5,[Família] Sua viagem deterça-feira à tarde com a Uber,2023-03-07 17:05:49,False,7,3,2023,17,2023-03-07,2023-03
+9021,noreply@uber.com,8.03,0.68,[Família] Sua viagem de quinta-feiraà tarde com a Uber,2023-03-09 12:21:00,False,9,3,2023,12,2023-03-09,2023-03
+9033,noreply@uber.com,7.95,1.6,Sua viagem de sexta-feira à tarde com a Uber,2023-03-10 18:07:51,True,10,3,2023,18,2023-03-10,2023-03
+9034,noreply@uber.com,14.99,3.3,Sua viagem de sexta-feira à noite com a Uber,2023-03-10 20:19:26,True,10,3,2023,20,2023-03-10,2023-03
+9053,noreply@uber.com,7.65,0.59,Sua viagem de terça-feira de manhã com a Uber,2023-03-14 09:42:23,True,14,3,2023,9,2023-03-14,2023-03
+9114,noreply@uber.com,7.65,0.58,[Família] Sua viagem de sábado à noite com a Uber,2023-03-18 20:04:34,False,18,3,2023,20,2023-03-18,2023-03
+9115,noreply@uber.com,7.99,1.07,[Família] Sua viagem de sábado à noite com a Uber,2023-03-18 23:19:26,False,18,3,2023,23,2023-03-18,2023-03
+9188,noreply@uber.com,9.98,1.76,[Família] Sua viagem de terça-feira à tarde com a Uber,2023-03-28 15:29:17,False,28,3,2023,15,2023-03-28,2023-03
+9189,noreply@uber.com,12.91,2.01,[Família] Sua viagem deterça-feira à tarde com a Uber,2023-03-28 16:39:57,False,28,3,2023,16,2023-03-28,2023-03
+9219,noreply@uber.com,20.05,6.98,[Família] Sua viagem de sábado demanhã com a Uber,2023-04-01 08:45:51,False,1,4,2023,8,2023-04-01,2023-04
+9248,noreply@uber.com,7.65,0.68,[Família] Sua viagem deterça-feira à tarde com a Uber,2023-04-04 14:19:58,False,4,4,2023,14,2023-04-04,2023-04
+9313,noreply@uber.com,24.98,9.34,[Família] Sua viagem de segunda-feira demanhã com a Uber,2023-04-10 06:46:28,False,10,4,2023,6,2023-04-10,2023-04
+9315,noreply@uber.com,14.97,2.22,[Família] Sua viagem de segunda-feira demanhã com a Uber,2023-04-10 07:26:44,False,10,4,2023,7,2023-04-10,2023-04
+9327,noreply@uber.com,19.99,9.56,[Família] Sua viagem de segunda-feiraà tarde com a Uber,2023-04-10 16:32:35,False,10,4,2023,16,2023-04-10,2023-04
+9359,noreply@uber.com,7.65,0.99,[Família] Sua viagem de quinta-feiraà tarde com a Uber,2023-04-13 14:22:42,False,13,4,2023,14,2023-04-13,2023-04
+9360,noreply@uber.com,12.65,0.99,[Família] Sua viagem de quinta-feiraà tarde com a Uber,2023-04-13 14:40:57,False,13,4,2023,14,2023-04-13,2023-04
+9373,noreply@uber.com,19.95,7.11,[Família] Sua viagem de sábado demanhã com a Uber,2023-04-15 09:51:18,False,15,4,2023,9,2023-04-15,2023-04
+9387,noreply@uber.com,19.96,10.18,[Família] Sua viagem de segunda-feira demanhã com a Uber,2023-04-17 11:35:44,False,17,4,2023,11,2023-04-17,2023-04
+9428,noreply@uber.com,13.97,3.13,[Família] Sua viagem de quinta-feiraà tarde com a Uber,2023-04-20 14:10:20,False,20,4,2023,14,2023-04-20,2023-04
+9431,noreply@uber.com,12.13,2.7,[Família] Sua viagem de quinta-feira à tarde com a Uber,2023-04-20 17:00:29,False,20,4,2023,17,2023-04-20,2023-04
+9445,noreply@uber.com,7.69,1.22,[Família] Sua viagem de domingo àtarde com a Uber,2023-04-23 13:30:28,False,23,4,2023,13,2023-04-23,2023-04
+9447,noreply@uber.com,7.65,0.59,[Família] Sua viagem de domingo ànoite com a Uber,2023-04-23 17:57:37,False,23,4,2023,17,2023-04-23,2023-04
+9494,noreply@uber.com,18.47,7.46,[Família] Sua viagem de quarta-feira à tarde com a Uber,2023-04-26 14:49:08,False,26,4,2023,14,2023-04-26,2023-04
+9500,noreply@uber.com,19.73,8.36,[Família] Sua viagem de quarta-feiraà tarde com a Uber,2023-04-26 16:43:39,False,26,4,2023,16,2023-04-26,2023-04
+9526,noreply@uber.com,19.93,7.63,[Família] Sua viagem de sexta-feiraà tarde com a Uber,2023-04-28 14:12:06,False,28,4,2023,14,2023-04-28,2023-04
+9528,noreply@uber.com,19.99,8.36,[Família] Sua viagem de sexta-feiraà tarde com a Uber,2023-04-28 14:56:32,False,28,4,2023,14,2023-04-28,2023-04
+9533,noreply@uber.com,19.99,8.84,[Família] Sua viagem de sábado à tarde com a Uber,2023-04-29 12:47:25,False,29,4,2023,12,2023-04-29,2023-04
+9535,noreply@uber.com,19.95,9.52,[Família] Sua viagem de sábado à tarde com a Uber,2023-04-29 17:13:09,False,29,4,2023,17,2023-04-29,2023-04
+9562,noreply@uber.com,13.93,3.18,[Família] Sua viagem de quarta-feira demanhã com a Uber,2023-05-03 08:23:15,False,3,5,2023,8,2023-05-03,2023-05
+9570,noreply@uber.com,16.05,2.61,[Família] Sua viagem de quarta-feira à tarde com a Uber,2023-05-03 13:44:21,False,3,5,2023,13,2023-05-03,2023-05
+9576,noreply@uber.com,9.91,2.21,Sua viagem de quinta-feira de manhã com a Uber,2023-05-04 08:58:02,True,4,5,2023,8,2023-05-04,2023-05
+9583,noreply@uber.com,12.92,3.11,Sua viagem de quinta-feira de manhã com a Uber,2023-05-04 10:19:34,True,4,5,2023,10,2023-05-04,2023-05
+9608,noreply@uber.com,21.93,9.94,[Família] Sua viagem de segunda-feira demanhã com a Uber,2023-05-08 07:28:45,False,8,5,2023,7,2023-05-08,2023-05
+9610,noreply@uber.com,9.56,1.71,[Família] Sua viagem de segunda-feira de manhã com a Uber,2023-05-08 08:57:28,False,8,5,2023,8,2023-05-08,2023-05
+9615,noreply@uber.com,19.96,9.86,[Família] Sua viagem de segunda-feira à tarde com a Uber,2023-05-08 16:03:37,False,8,5,2023,16,2023-05-08,2023-05
+9620,noreply@uber.com,13.94,2.7,[Família] Sua viagem de terça-feira demanhã com a Uber,2023-05-09 08:54:16,False,9,5,2023,8,2023-05-09,2023-05
+9622,noreply@uber.com,13.9,2.91,[Família] Sua viagem de terça-feira de manhã com a Uber,2023-05-09 09:31:07,False,9,5,2023,9,2023-05-09,2023-05
+9646,noreply@uber.com,19.96,7.02,[Família] Sua viagem de sábado demanhã com a Uber,2023-05-13 07:42:34,False,13,5,2023,7,2023-05-13,2023-05
+9664,noreply@uber.com,11.91,2.2,[Família] Sua viagem deterça-feira à tarde com a Uber,2023-05-16 16:30:01,False,16,5,2023,16,2023-05-16,2023-05
+9665,noreply@uber.com,14.95,3.15,[Família] Sua viagem deterça-feira à noite com a Uber,2023-05-16 17:36:32,False,16,5,2023,17,2023-05-16,2023-05
+9667,noreply@uber.com,13.6,4.15,[Família] Sua viagem de quarta-feira demanhã com a Uber,2023-05-17 08:23:21,False,17,5,2023,8,2023-05-17,2023-05
+9670,noreply@uber.com,14.95,3.19,[Família] Sua viagem de quarta-feira demanhã com a Uber,2023-05-17 12:09:43,False,17,5,2023,12,2023-05-17,2023-05
+9673,noreply@uber.com,21.47,2.73,[Família] Sua viagem de quarta-feiraà noite com a Uber,2023-05-17 18:30:32,False,17,5,2023,18,2023-05-17,2023-05
+9677,noreply@uber.com,12.98,2.77,[Família] Sua viagem de quinta-feira demanhã com a Uber,2023-05-18 08:18:52,False,18,5,2023,8,2023-05-18,2023-05
+9701,noreply@uber.com,7.65,0.87,[Família] Sua viagem de sábado à tarde com a Uber,2023-05-20 12:27:36,False,20,5,2023,12,2023-05-20,2023-05
+9733,noreply@uber.com,13.99,3.4,[Família] Sua viagem de sexta-feira de manhã com a Uber,2023-05-26 07:47:30,False,26,5,2023,7,2023-05-26,2023-05
+9741,noreply@uber.com,14.98,3.02,[Família] Sua viagem de sexta-feira à tarde com a Uber,2023-05-26 14:22:21,False,26,5,2023,14,2023-05-26,2023-05
+9744,noreply@uber.com,19.92,7.15,[Família] Sua viagem de sábado de manhã com a Uber,2023-05-27 08:54:44,False,27,5,2023,8,2023-05-27,2023-05
+9745,noreply@uber.com,19.95,8.04,[Família] Sua viagem de sábado de manhã com a Uber,2023-05-27 12:04:34,False,27,5,2023,12,2023-05-27,2023-05
+9746,noreply@uber.com,7.65,0.87,[Família] Sua viagem de sábado à tarde com a Uber,2023-05-27 13:28:20,False,27,5,2023,13,2023-05-27,2023-05
+9748,noreply@uber.com,8.91,2.36,[Família] Sua viagem de sábado à noite com a Uber,2023-05-27 18:37:02,False,27,5,2023,18,2023-05-27,2023-05
+9749,noreply@uber.com,12.98,3.49,[Família] Sua viagem de sábado à noite com a Uber,2023-05-27 19:46:32,False,27,5,2023,19,2023-05-27,2023-05
+9750,noreply@uber.com,12.59,2.53,Sua viagem de sábado à noite com a Uber,2023-05-27 22:15:54,True,27,5,2023,22,2023-05-27,2023-05
+9753,noreply@uber.com,11.96,4.04,Sua viagem de domingo de manhã com a Uber,2023-05-28 10:02:27,True,28,5,2023,10,2023-05-28,2023-05
+9756,noreply@uber.com,12.87,4.49,[Família] Sua viagem de segunda-feira demanhã com a Uber,2023-05-29 07:45:56,False,29,5,2023,7,2023-05-29,2023-05
+9758,noreply@uber.com,14.91,3.05,[Família] Sua viagem de segunda-feiraà tarde com a Uber,2023-05-29 14:32:15,False,29,5,2023,14,2023-05-29,2023-05
+9762,noreply@uber.com,13.91,3.86,[Família] Sua viagem de terça-feira de manhã com a Uber,2023-05-30 07:50:29,False,30,5,2023,7,2023-05-30,2023-05
+9772,noreply@uber.com,15.59,3.56,[Família] Sua viagem de terça-feira à tarde com a Uber,2023-05-30 14:33:02,False,30,5,2023,14,2023-05-30,2023-05
+9776,noreply@uber.com,10.96,2.15,[Família] Sua viagem de terça-feira à tarde com a Uber,2023-05-30 15:58:33,False,30,5,2023,15,2023-05-30,2023-05
+9778,noreply@uber.com,13.94,3.23,[Família] Sua viagem deterça-feira à tarde com a Uber,2023-05-30 17:05:54,False,30,5,2023,17,2023-05-30,2023-05
+9781,noreply@uber.com,15.06,4.49,[Família] Sua viagem de quarta-feira demanhã com a Uber,2023-05-31 07:49:14,False,31,5,2023,7,2023-05-31,2023-05
+9783,noreply@uber.com,14.95,3.02,[Família] Sua viagem de quarta-feiraà tarde com a Uber,2023-05-31 14:22:02,False,31,5,2023,14,2023-05-31,2023-05
+9788,noreply@uber.com,14.95,3.79,[Família] Sua viagem de quinta-feira de manhã com a Uber,2023-06-01 07:54:43,False,1,6,2023,7,2023-06-01,2023-06
+9795,noreply@uber.com,14.92,3.53,[Família] Sua viagem de quinta-feiraà tarde com a Uber,2023-06-01 14:35:04,False,1,6,2023,14,2023-06-01,2023-06
+9801,noreply@uber.com,13.98,3.04,[Família] Sua viagem de sexta-feira demanhã com a Uber,2023-06-02 07:40:37,False,2,6,2023,7,2023-06-02,2023-06
+9819,noreply@uber.com,9.99,2.22,Sua viagem de terça-feira de manhã com a Uber,2023-06-06 08:43:32,True,6,6,2023,8,2023-06-06,2023-06
+9821,noreply@uber.com,11.98,3.09,Sua viagem de terça-feira de manhã com a Uber,2023-06-06 09:40:34,True,6,6,2023,9,2023-06-06,2023-06
+9825,noreply@uber.com,24.99,9.38,[Família] Sua viagem de quarta-feira demanhã com a Uber,2023-06-07 07:09:43,False,7,6,2023,7,2023-06-07,2023-06
+9827,noreply@uber.com,14.93,1.99,[Família] Sua viagem de quarta-feira de manhã com a Uber,2023-06-07 07:49:13,False,7,6,2023,7,2023-06-07,2023-06
+9833,noreply@uber.com,19.91,9.5,[Família] Sua viagem de quarta-feiraà tarde com a Uber,2023-06-07 17:15:43,False,7,6,2023,17,2023-06-07,2023-06
+9841,noreply@uber.com,6.9,0.68,[Família] Sua viagem de sexta-feira à tarde com a Uber,2023-06-09 13:54:10,False,9,6,2023,13,2023-06-09,2023-06
+9868,noreply@uber.com,12.94,2.16,[Família] Sua viagem de terça-feira à tarde com a Uber,2023-06-13 16:56:37,False,13,6,2023,16,2023-06-13,2023-06
+9869,noreply@uber.com,10.97,2.63,[Família] Sua viagem deterça-feira à noite com a Uber,2023-06-13 19:28:14,False,13,6,2023,19,2023-06-13,2023-06
+9975,noreply@uber.com,14.9,5.08,Sua viagem de terça-feira de manhã com a Uber,2023-06-27 08:24:55,True,27,6,2023,8,2023-06-27,2023-06
+9976,noreply@uber.com,14.92,4.01,Sua viagem de terça-feira de manhã com a Uber,2023-06-27 09:04:07,True,27,6,2023,9,2023-06-27,2023-06
+9992,noreply@uber.com,12.95,2.74,[Família] Sua viagem de quarta-feira demanhã com a Uber,2023-06-28 11:50:23,False,28,6,2023,11,2023-06-28,2023-06
+10024,noreply@uber.com,11.98,2.71,[Família] Sua viagem de sexta-feira de manhã com a Uber,2023-06-30 11:42:09,False,30,6,2023,11,2023-06-30,2023-06
+10049,noreply@uber.com,7.65,1.0,[Família] Sua viagem de terça-feira demanhã com a Uber,2023-07-04 08:19:16,False,4,7,2023,8,2023-07-04,2023-07
+10051,noreply@uber.com,12.92,2.82,[Família] Sua viagem de terça-feira demanhã com a Uber,2023-07-04 11:37:15,False,4,7,2023,11,2023-07-04,2023-07
+10057,noreply@uber.com,7.65,1.61,Sua viagem de terça-feira à tarde com a Uber,2023-07-04 15:12:16,True,4,7,2023,15,2023-07-04,2023-07
+10058,noreply@uber.com,11.97,3.32,Sua viagem de terça-feira à tarde com a Uber,2023-07-04 16:17:32,True,4,7,2023,16,2023-07-04,2023-07
+10066,noreply@uber.com,7.65,0.67,[Família] Sua viagem de quarta-feira à tarde com a Uber,2023-07-05 14:11:36,False,5,7,2023,14,2023-07-05,2023-07
+10082,noreply@uber.com,7.9,0.67,[Família] Sua viagem de quinta-feira à tarde com a Uber,2023-07-06 13:37:24,False,6,7,2023,13,2023-07-06,2023-07
+10086,noreply@uber.com,25.17,9.95,[Família] Sua viagem de sexta-feira de manhã com a Uber,2023-07-07 07:35:06,False,7,7,2023,7,2023-07-07,2023-07
+10088,noreply@uber.com,10.98,1.98,[Família] Sua viagem de sexta-feira de manhã com a Uber,2023-07-07 07:59:08,False,7,7,2023,7,2023-07-07,2023-07
+10092,noreply@uber.com,7.98,0.66,[Família] Sua viagem de sexta-feiraà tarde com a Uber,2023-07-07 13:30:22,False,7,7,2023,13,2023-07-07,2023-07
+10097,noreply@uber.com,19.92,9.64,[Família] Sua viagem de sexta-feiraà tarde com a Uber,2023-07-07 16:56:52,False,7,7,2023,16,2023-07-07,2023-07
+10124,noreply@uber.com,7.98,1.59,Sua viagem de terça-feira à tarde com a Uber,2023-07-11 15:07:45,True,11,7,2023,15,2023-07-11,2023-07
+10125,noreply@uber.com,11.9,3.07,Sua viagem de terça-feira à tarde com a Uber,2023-07-11 16:19:10,True,11,7,2023,16,2023-07-11,2023-07
+10145,noreply@uber.com,7.97,0.68,[Família] Sua viagem de quinta-feira à tarde com a Uber,2023-07-13 14:07:07,False,13,7,2023,14,2023-07-13,2023-07
+10149,noreply@uber.com,12.92,4.01,[Família] Sua viagem de quinta-feira à noite com a Uber,2023-07-13 17:46:56,False,13,7,2023,17,2023-07-13,2023-07
+10150,noreply@uber.com,25.13,10.36,[Família] Sua viagem de sexta-feira de manhã com a Uber,2023-07-14 06:39:02,False,14,7,2023,6,2023-07-14,2023-07
+10182,noreply@uber.com,10.95,3.13,[Família] Sua viagem deterça-feira à tarde com a Uber,2023-07-18 16:52:19,False,18,7,2023,16,2023-07-18,2023-07
+10307,noreply@uber.com,6.94,0.62,[Família] Sua viagem de terça-feira de manhã com a Uber,2023-08-01 08:49:05,False,1,8,2023,8,2023-08-01,2023-08
+10309,noreply@uber.com,7.94,1.02,[Família] Sua viagem de terça-feira de manhã com a Uber,2023-08-01 09:44:31,False,1,8,2023,9,2023-08-01,2023-08
+10318,noreply@uber.com,9.94,2.2,[Família] Sua viagem de terça-feira à tarde com a Uber,2023-08-01 16:37:28,False,1,8,2023,16,2023-08-01,2023-08
+10320,noreply@uber.com,10.96,2.62,[Família] Sua viagem de terça-feira à noite com a Uber,2023-08-01 19:02:56,False,1,8,2023,19,2023-08-01,2023-08
+10384,noreply@uber.com,10.92,2.05,[Família] Sua viagem de segunda-feira de manhã com a Uber,2023-08-07 07:56:49,False,7,8,2023,7,2023-08-07,2023-08
+10387,noreply@uber.com,19.94,9.6,[Família] Sua viagem de segunda-feira à tarde com a Uber,2023-08-07 14:37:12,False,7,8,2023,14,2023-08-07,2023-08
+10394,noreply@uber.com,6.94,0.61,[Família] Sua viagem de terça-feira demanhã com a Uber,2023-08-08 09:05:30,False,8,8,2023,9,2023-08-08,2023-08
+10397,noreply@uber.com,6.98,1.26,[Família] Sua viagem de terça-feira demanhã com a Uber,2023-08-08 09:41:08,False,8,8,2023,9,2023-08-08,2023-08
+10402,noreply@uber.com,7.96,1.61,Sua viagem de terça-feira à tarde com a Uber,2023-08-08 15:15:35,True,8,8,2023,15,2023-08-08,2023-08
+10403,noreply@uber.com,11.91,3.21,Sua viagem de terça-feira à tarde com a Uber,2023-08-08 16:07:39,True,8,8,2023,16,2023-08-08,2023-08
+10412,noreply@uber.com,7.9,1.58,Sua viagem de quarta-feira à tarde com a Uber,2023-08-09 15:23:36,True,9,8,2023,15,2023-08-09,2023-08
+10419,noreply@uber.com,13.92,4.54,Sua viagem de quinta-feira de manhã com a Uber,2023-08-10 10:14:59,True,10,8,2023,10,2023-08-10,2023-08
+10428,noreply@uber.com,6.95,1.0,Sua viagem de sexta-feira à tarde com a Uber,2023-08-11 12:52:27,True,11,8,2023,12,2023-08-11,2023-08
+10434,noreply@uber.com,7.92,1.61,Sua viagem de sexta-feira à tarde com a Uber,2023-08-11 15:05:22,True,11,8,2023,15,2023-08-11,2023-08
+10435,noreply@uber.com,12.95,3.72,Sua viagem de sexta-feira à tarde com a Uber,2023-08-11 15:41:50,True,11,8,2023,15,2023-08-11,2023-08
+10449,noreply@uber.com,13.9,3.58,[Família] Sua viagem de sábado à noite com a Uber,2023-08-12 20:00:30,False,12,8,2023,20,2023-08-12,2023-08
+10450,noreply@uber.com,11.92,2.54,[Família] Sua viagem de sábado à noite com a Uber,2023-08-12 21:25:40,False,12,8,2023,21,2023-08-12,2023-08
+10453,noreply@uber.com,7.96,0.85,Sua viagem de domingo à tarde com a Uber,2023-08-13 13:03:22,True,13,8,2023,13,2023-08-13,2023-08
+10456,noreply@uber.com,8.99,2.24,Sua viagem de domingo à tarde com a Uber,2023-08-13 16:23:48,True,13,8,2023,16,2023-08-13,2023-08
+10457,noreply@uber.com,11.92,2.54,Sua viagem de domingo à noite com a Uber,2023-08-13 18:43:35,True,13,8,2023,18,2023-08-13,2023-08
+10487,noreply@uber.com,6.93,0.6,[Família] Sua viagem de quarta-feira demanhã com a Uber,2023-08-16 08:54:59,False,16,8,2023,8,2023-08-16,2023-08
+10488,noreply@uber.com,6.9,1.31,[Família] Sua viagem de quarta-feira de manhã com a Uber,2023-08-16 09:19:08,False,16,8,2023,9,2023-08-16,2023-08
+10541,noreply@uber.com,6.92,0.88,[Família] Sua viagem de sexta-feira de manhã com a Uber,2023-08-25 10:36:08,False,25,8,2023,10,2023-08-25,2023-08
+10542,noreply@uber.com,6.91,0.76,[Família] Sua viagem de sexta-feira demanhã com a Uber,2023-08-25 11:12:27,False,25,8,2023,11,2023-08-25,2023-08
+10547,noreply@uber.com,24.99,9.57,[Família] Sua viagem de sexta-feira à noite com a Uber,2023-08-25 21:03:37,False,25,8,2023,21,2023-08-25,2023-08
+10554,noreply@uber.com,24.92,9.66,[Família] Sua viagem de sábado à noite com a Uber,2023-08-26 18:54:43,False,26,8,2023,18,2023-08-26,2023-08
+10623,noreply@uber.com,9.94,2.54,[Família] Sua viagem de sábado à noite com a Uber,2023-09-02 21:41:11,False,2,9,2023,21,2023-09-02,2023-09
+10624,noreply@uber.com,14.94,2.54,[Família] Sua viagem de sábado à noite com a Uber,2023-09-02 21:41:40,False,2,9,2023,21,2023-09-02,2023-09
+10697,noreply@uber.com,7.98,0.87,[Família] Sua viagem de sábado à tarde com a Uber,2023-09-09 13:25:58,False,9,9,2023,13,2023-09-09,2023-09
+10707,noreply@uber.com,24.93,10.02,[Família] Sua viagem de segunda-feira demanhã com a Uber,2023-09-11 08:02:36,False,11,9,2023,8,2023-09-11,2023-09
+10708,noreply@uber.com,9.48,2.06,[Família] Sua viagem de segunda-feira de manhã com a Uber,2023-09-11 08:26:53,False,11,9,2023,8,2023-09-11,2023-09
+10716,noreply@uber.com,25.53,9.5,[Família] Sua viagem de segunda-feiraà noite com a Uber,2023-09-11 17:46:18,False,11,9,2023,17,2023-09-11,2023-09
+10732,noreply@uber.com,7.44,1.58,Sua viagem de terça-feira à tarde com a Uber,2023-09-12 15:19:39,True,12,9,2023,15,2023-09-12,2023-09
+10733,noreply@uber.com,11.97,3.21,Sua viagem de terça-feira à tarde com a Uber,2023-09-12 16:42:00,True,12,9,2023,16,2023-09-12,2023-09
+10756,noreply@uber.com,7.21,1.42,[Família] Sua viagem de quinta-feira demanhã com a Uber,2023-09-14 10:11:15,False,14,9,2023,10,2023-09-14,2023-09
+10789,noreply@uber.com,6.9,1.41,[Família] Sua viagem de segunda-feira demanhã com a Uber,2023-09-18 11:09:34,False,18,9,2023,11,2023-09-18,2023-09
+10803,noreply@uber.com,15.41,3.14,[Família] Sua viagem de quarta-feira demanhã com a Uber,2023-09-20 11:16:51,False,20,9,2023,11,2023-09-20,2023-09
+10931,noreply@uber.com,19.95,8.66,[Família] Sua viagem de sexta-feira de manhã com a Uber,2023-10-06 07:55:27,False,6,10,2023,7,2023-10-06,2023-10
+10932,noreply@uber.com,7.98,1.99,[Família] Sua viagem de sexta-feira demanhã com a Uber,2023-10-06 08:34:03,False,6,10,2023,8,2023-10-06,2023-10
+10938,noreply@uber.com,19.93,9.46,[Família] Sua viagem de sexta-feiraà noite com a Uber,2023-10-06 18:29:33,False,6,10,2023,18,2023-10-06,2023-10
+10993,noreply@uber.com,8.03,1.11,[Família] Sua viagem de sábado à noite com a Uber,2023-10-14 20:09:49,False,14,10,2023,20,2023-10-14,2023-10
+10995,noreply@uber.com,8.9,1.95,[Família] Sua viagem de sábado à noite com a Uber,2023-10-14 21:51:44,False,14,10,2023,21,2023-10-14,2023-10
+11016,noreply@uber.com,7.93,1.59,Sua viagem de terça-feira à tarde com a Uber,2023-10-17 15:29:48,True,17,10,2023,15,2023-10-17,2023-10
+11017,noreply@uber.com,12.98,3.74,Sua viagem de terça-feira à tarde com a Uber,2023-10-17 16:33:17,True,17,10,2023,16,2023-10-17,2023-10
+11019,noreply@uber.com,6.96,1.4,[Família] Sua viagem de quarta-feira demanhã com a Uber,2023-10-18 09:29:40,False,18,10,2023,9,2023-10-18,2023-10
+11024,noreply@uber.com,7.91,1.53,[Família] Sua viagem de quarta-feiraà tarde com a Uber,2023-10-18 13:26:00,False,18,10,2023,13,2023-10-18,2023-10
+11049,noreply@uber.com,6.91,0.62,Sua viagem de segunda-feira de manhã com a Uber,2023-10-23 11:13:49,True,23,10,2023,11,2023-10-23,2023-10
+11065,noreply@uber.com,6.92,1.02,[Família] Sua viagem de terça-feira de manhã com a Uber,2023-10-24 11:09:19,False,24,10,2023,11,2023-10-24,2023-10
+11066,noreply@uber.com,19.96,7.78,[Família] Sua viagem de terça-feira à tarde com a Uber,2023-10-24 12:35:16,False,24,10,2023,12,2023-10-24,2023-10
+11071,noreply@uber.com,21.91,9.09,[Família] Sua viagem de terça-feira à noite com a Uber,2023-10-24 18:13:59,False,24,10,2023,18,2023-10-24,2023-10
+11129,noreply@uber.com,10.42,2.24,Sua viagem de domingo à tarde com a Uber,2023-10-29 12:40:16,True,29,10,2023,12,2023-10-29,2023-10
+11141,noreply@uber.com,9.97,2.19,[Família] Sua viagem de segunda-feiraà tarde com a Uber,2023-10-30 15:55:45,False,30,10,2023,15,2023-10-30,2023-10
+11261,noreply@uber.com,9.18,2.48,[Família] Sua viagem de quarta-feira de manhã com a Uber,2023-11-08 09:46:46,False,8,11,2023,9,2023-11-08,2023-11
+11266,noreply@uber.com,24.96,9.7,[Família] Sua viagem de quarta-feiraà noite com a Uber,2023-11-08 18:41:36,False,8,11,2023,18,2023-11-08,2023-11
+11288,noreply@uber.com,9.05,1.97,[Família] Sua viagem de sexta-feira demanhã com a Uber,2023-11-10 10:40:31,False,10,11,2023,10,2023-11-10,2023-11
+11289,noreply@uber.com,7.95,1.66,[Família] Sua viagem de sexta-feira de manhã com a Uber,2023-11-10 11:37:03,False,10,11,2023,11,2023-11-10,2023-11
+11293,noreply@uber.com,7.96,1.63,[Família] Sua viagem de sexta-feira à tarde com a Uber,2023-11-10 14:38:46,False,10,11,2023,14,2023-11-10,2023-11
+11340,noreply@uber.com,7.94,1.61,Sua viagem de terça-feira à tarde com a Uber,2023-11-14 15:27:04,True,14,11,2023,15,2023-11-14,2023-11
+11342,noreply@uber.com,12.98,3.22,Sua viagem de terça-feira à tarde com a Uber,2023-11-14 16:33:35,True,14,11,2023,16,2023-11-14,2023-11
+11390,noreply@uber.com,7.98,1.83,Sua viagem de sábado de manhã com a Uber,2023-11-18 09:01:12,True,18,11,2023,9,2023-11-18,2023-11
+11392,noreply@uber.com,6.99,1.24,Sua viagem de sábado à tarde com a Uber,2023-11-18 12:11:48,True,18,11,2023,12,2023-11-18,2023-11
+11393,noreply@uber.com,6.95,1.81,Sua viagem de sábado à tarde com a Uber,2023-11-18 14:19:21,True,18,11,2023,14,2023-11-18,2023-11
+11395,noreply@uber.com,7.99,1.23,Sua viagem de sábado à noite com a Uber,2023-11-18 18:16:49,True,18,11,2023,18,2023-11-18,2023-11
+11405,noreply@uber.com,7.99,1.7,[Família] Sua viagem de segunda-feira demanhã com a Uber,2023-11-20 10:04:13,False,20,11,2023,10,2023-11-20,2023-11
+11406,noreply@uber.com,6.18,1.43,[Família] Sua viagem de segunda-feira de manhã com a Uber,2023-11-20 10:20:45,False,20,11,2023,10,2023-11-20,2023-11
+11463,noreply@uber.com,6.93,0.86,[Família] Sua viagem de domingo àtarde com a Uber,2023-11-26 12:08:36,False,26,11,2023,12,2023-11-26,2023-11
+11538,noreply@uber.com,11.97,3.1,Sua viagem de quarta-feira de manhã com a Uber,2023-12-06 09:02:56,True,6,12,2023,9,2023-12-06,2023-12
+11541,noreply@uber.com,9.91,1.95,[Família] Sua viagem de quarta-feira demanhã com a Uber,2023-12-06 10:56:05,False,6,12,2023,10,2023-12-06,2023-12
+11557,noreply@uber.com,21.13,9.94,[Família] Sua viagem de quinta-feira demanhã com a Uber,2023-12-07 07:56:37,False,7,12,2023,7,2023-12-07,2023-12
+11559,noreply@uber.com,10.93,2.16,[Família] Sua viagem de quinta-feira demanhã com a Uber,2023-12-07 08:26:45,False,7,12,2023,8,2023-12-07,2023-12
+11568,noreply@uber.com,24.99,9.63,[Família] Sua viagem de quinta-feiraà tarde com a Uber,2023-12-07 15:55:20,False,7,12,2023,15,2023-12-07,2023-12
+11570,noreply@uber.com,9.97,1.43,[Família] Sua viagem de quinta-feira à tarde com a Uber,2023-12-07 16:32:31,False,7,12,2023,16,2023-12-07,2023-12
+11582,noreply@uber.com,10.48,1.95,Sua viagem de domingo de manhã com a Uber,2023-12-10 02:06:26,True,10,12,2023,2,2023-12-10,2023-12
+11583,noreply@uber.com,16.9,1.08,Sua viagem de domingo de manhã com a Uber,2023-12-10 04:34:11,True,10,12,2023,4,2023-12-10,2023-12
+11597,noreply@uber.com,11.97,3.3,[Família] Sua viagem de segunda-feira de manhã com a Uber,2023-12-11 11:21:29,False,11,12,2023,11,2023-12-11,2023-12
+11615,noreply@uber.com,7.93,1.6,Sua viagem de terça-feira à tarde com a Uber,2023-12-12 15:36:40,True,12,12,2023,15,2023-12-12,2023-12
+11617,noreply@uber.com,17.91,3.03,Sua viagem de terça-feira à tarde com a Uber,2023-12-12 16:33:14,True,12,12,2023,16,2023-12-12,2023-12
+11634,noreply@uber.com,31.95,10.77,[Família] Sua viagem de quinta-feira de manhã com a Uber,2023-12-14 11:49:54,False,14,12,2023,11,2023-12-14,2023-12
+11637,noreply@uber.com,36.99,11.61,[Família] Sua viagem de quinta-feiraà noite com a Uber,2023-12-14 17:56:05,False,14,12,2023,17,2023-12-14,2023-12
+11684,noreply@uber.com,14.98,1.58,Sua viagem de terça-feira à tarde com a Uber,2023-12-19 16:29:32,True,19,12,2023,16,2023-12-19,2023-12
+11686,noreply@uber.com,13.95,2.92,Sua viagem de terça-feira à noite com a Uber,2023-12-19 17:58:55,True,19,12,2023,17,2023-12-19,2023-12
+11687,noreply@uber.com,9.96,0.62,[Família] Sua viagem deterça-feira à noite com a Uber,2023-12-19 18:59:43,False,19,12,2023,18,2023-12-19,2023-12
+11691,noreply@uber.com,7.93,1.1,[Família] Sua viagem deterça-feira à noite com a Uber,2023-12-19 23:56:46,False,19,12,2023,23,2023-12-19,2023-12
+11697,noreply@uber.com,6.99,0.61,Sua viagem de quarta-feira à tarde com a Uber,2023-12-20 13:10:56,True,20,12,2023,13,2023-12-20,2023-12
+11707,noreply@uber.com,6.97,0.62,Sua viagem de quinta-feira à tarde com a Uber,2023-12-21 13:00:29,True,21,12,2023,13,2023-12-21,2023-12
+11715,noreply@uber.com,6.93,0.64,Sua viagem de sexta-feira à tarde com a Uber,2023-12-22 13:02:23,True,22,12,2023,13,2023-12-22,2023-12
+11721,noreply@uber.com,6.98,0.63,[Família] Sua viagem de domingo de manhã com a Uber,2023-12-24 09:33:45,False,24,12,2023,9,2023-12-24,2023-12
+11723,noreply@uber.com,6.9,0.73,[Família] Sua viagem de domingo demanhã com a Uber,2023-12-24 11:07:39,False,24,12,2023,11,2023-12-24,2023-12
+11738,noreply@uber.com,6.95,0.62,Sua viagem de terça-feira à tarde com a Uber,2023-12-26 13:04:23,True,26,12,2023,13,2023-12-26,2023-12
+11752,noreply@uber.com,9.9,1.39,Sua viagem de quarta-feira à noite com a Uber,2023-12-27 18:59:42,True,27,12,2023,18,2023-12-27,2023-12
+11757,noreply@uber.com,6.98,0.61,[Família] Sua viagem de quinta-feira à tarde com a Uber,2023-12-28 13:04:19,False,28,12,2023,13,2023-12-28,2023-12
+11766,noreply@uber.com,6.93,1.39,[Família] Sua viagem de domingo demanhã com a Uber,2023-12-31 09:15:38,False,31,12,2023,9,2023-12-31,2023-12
+11773,noreply@uber.com,6.91,0.61,Sua viagem de terça-feira à tarde com a Uber,2024-01-02 12:59:47,True,2,1,2024,12,2024-01-02,2024-01
+11782,noreply@uber.com,6.98,0.61,Sua viagem de quarta-feira à tarde com a Uber,2024-01-03 13:08:37,True,3,1,2024,13,2024-01-03,2024-01
+11783,noreply@uber.com,7.98,1.25,Sua viagem de quarta-feira à noite com a Uber,2024-01-03 19:21:37,True,3,1,2024,19,2024-01-03,2024-01
+11786,noreply@uber.com,6.92,0.6,Sua viagem de quinta-feira à tarde com a Uber,2024-01-04 13:04:18,True,4,1,2024,13,2024-01-04,2024-01
+11792,noreply@uber.com,7.96,1.24,Sua viagem de quinta-feira à noite com a Uber,2024-01-04 19:21:12,True,4,1,2024,19,2024-01-04,2024-01
+11800,noreply@uber.com,6.9,0.62,Sua viagem de sexta-feira à tarde com a Uber,2024-01-05 13:19:38,True,5,1,2024,13,2024-01-05,2024-01
+11803,noreply@uber.com,7.94,1.22,Sua viagem de sexta-feira à noite com a Uber,2024-01-05 19:27:37,True,5,1,2024,19,2024-01-05,2024-01
+11804,noreply@uber.com,6.91,1.15,Sua viagem de sábado de manhã com a Uber,2024-01-06 08:49:46,True,6,1,2024,8,2024-01-06,2024-01
+11806,noreply@uber.com,6.94,0.94,Sua viagem de sábado de manhã com a Uber,2024-01-06 09:44:31,True,6,1,2024,9,2024-01-06,2024-01
+11810,noreply@uber.com,6.92,1.46,[Família] Sua viagem de domingo à tarde com a Uber,2024-01-07 15:26:28,False,7,1,2024,15,2024-01-07,2024-01
+11814,noreply@uber.com,10.92,1.77,[Família] Sua viagem de segunda-feira de manhã com a Uber,2024-01-08 08:13:44,False,8,1,2024,8,2024-01-08,2024-01
+11817,noreply@uber.com,24.91,9.55,[Família] Sua viagem de segunda-feira à tarde com a Uber,2024-01-08 12:39:09,False,8,1,2024,12,2024-01-08,2024-01
+11819,noreply@uber.com,7.95,1.42,[Família] Sua viagem de segunda-feira à tarde com a Uber,2024-01-08 12:57:10,False,8,1,2024,12,2024-01-08,2024-01
+11878,noreply@uber.com,7.92,1.6,Sua viagem de terça-feira à tarde com a Uber,2024-01-16 15:24:58,True,16,1,2024,15,2024-01-16,2024-01
+11879,noreply@uber.com,9.73,3.17,Sua viagem de terça-feira à tarde com a Uber,2024-01-16 16:08:44,True,16,1,2024,16,2024-01-16,2024-01
+11957,noreply@uber.com,7.98,1.41,Sua viagem de segunda-feira à tarde com a Uber,2024-01-22 15:29:12,True,22,1,2024,15,2024-01-22,2024-01
+11975,noreply@uber.com,14.98,3.91,Sua viagem de terça-feira à tarde com a Uber,2024-01-23 15:54:14,True,23,1,2024,15,2024-01-23,2024-01
+11978,noreply@uber.com,11.98,3.07,Sua viagem de terça-feira à tarde com a Uber,2024-01-23 16:41:04,True,23,1,2024,16,2024-01-23,2024-01
+11983,noreply@uber.com,11.99,3.26,Sua viagem de quarta-feira de manhã com a Uber,2024-01-24 08:45:11,True,24,1,2024,8,2024-01-24,2024-01
+11985,noreply@uber.com,11.99,2.88,Sua viagem de quarta-feira de manhã com a Uber,2024-01-24 09:56:46,True,24,1,2024,9,2024-01-24,2024-01
+12084,noreply@uber.com,15.67,2.9,[Família] Sua viagem de sábado de manhã com a Uber,2024-02-03 10:15:18,False,3,2,2024,10,2024-02-03,2024-02
+12123,noreply@uber.com,29.95,9.83,[Família] Sua viagem de quinta-feira de manhã com a Uber,2024-02-08 08:10:13,False,8,2,2024,8,2024-02-08,2024-02
+12127,noreply@uber.com,24.96,9.63,[Família] Sua viagem de quinta-feiraà tarde com a Uber,2024-02-08 16:59:26,False,8,2,2024,16,2024-02-08,2024-02
+12164,noreply@uber.com,7.93,1.6,Sua viagem de sexta-feira à tarde com a Uber,2024-02-16 15:51:43,True,16,2,2024,15,2024-02-16,2024-02
+12165,noreply@uber.com,8.78,1.94,Sua viagem de sexta-feira à tarde com a Uber,2024-02-16 16:22:23,True,16,2,2024,16,2024-02-16,2024-02
+12176,noreply@uber.com,11.97,2.32,[Família] Sua viagem de segunda-feiraà tarde com a Uber,2024-02-19 13:13:21,False,19,2,2024,13,2024-02-19,2024-02
+12241,noreply@uber.com,22.21,9.53,[Família] Sua viagem de sábado à noite com a Uber,2024-02-24 18:53:41,False,24,2,2024,18,2024-02-24,2024-02
+12242,noreply@uber.com,9.99,2.06,Sua viagem de sábado à noite com a Uber,2024-02-24 19:19:11,True,24,2,2024,19,2024-02-24,2024-02
+12243,noreply@uber.com,11.27,1.08,[Família] Sua viagem de sábado à noite com a Uber,2024-02-24 20:06:39,False,24,2,2024,20,2024-02-24,2024-02
+12251,noreply@uber.com,16.07,2.49,[Família] Sua viagem de segunda-feira demanhã com a Uber,2024-02-26 10:16:53,False,26,2,2024,10,2024-02-26,2024-02
+12259,noreply@uber.com,8.74,0.66,[Família] Sua viagem de segunda-feira à noite com a Uber,2024-02-26 18:29:41,False,26,2,2024,18,2024-02-26,2024-02
+12339,noreply@uber.com,10.96,1.52,[Família] Sua viagem de sábado à tarde com a Uber,2024-03-02 12:27:25,False,2,3,2024,12,2024-03-02,2024-03
+12382,noreply@uber.com,12.9,2.93,Sua viagem de quarta-feira à tarde com a Uber,2024-03-06 14:51:05,True,6,3,2024,14,2024-03-06,2024-03
+12384,noreply@uber.com,14.9,2.93,[Família] Sua viagem de quarta-feira à noite com a Uber,2024-03-06 17:42:29,False,6,3,2024,17,2024-03-06,2024-03
+12387,noreply@uber.com,32.96,9.38,[Família] Sua viagem de quinta-feira demanhã com a Uber,2024-03-07 08:58:21,False,7,3,2024,8,2024-03-07,2024-03
+12388,noreply@uber.com,12.3,2.0,[Família] Sua viagem de quinta-feira demanhã com a Uber,2024-03-07 09:45:46,False,7,3,2024,9,2024-03-07,2024-03
+12393,noreply@uber.com,28.49,9.89,[Família] Sua viagem de quinta-feira à noite com a Uber,2024-03-07 17:38:35,False,7,3,2024,17,2024-03-07,2024-03
+12427,noreply@uber.com,27.51,8.33,[Família] Sua viagem deterça-feira à noite com a Uber,2024-03-12 18:40:17,False,12,3,2024,18,2024-03-12,2024-03
+12428,noreply@uber.com,23.21,9.84,[Família] Sua viagem de quarta-feira de manhã com a Uber,2024-03-13 01:04:13,False,13,3,2024,1,2024-03-13,2024-03
+12430,noreply@uber.com,26.17,8.36,[Família] Sua viagem de quarta-feira demanhã com a Uber,2024-03-13 09:27:10,False,13,3,2024,9,2024-03-13,2024-03
+12431,noreply@uber.com,11.27,0.46,[Família] Sua viagem de quarta-feira demanhã com a Uber,2024-03-13 09:51:38,False,13,3,2024,9,2024-03-13,2024-03
+12438,noreply@uber.com,25.9,9.68,[Família] Sua viagem de quarta-feira à noite com a Uber,2024-03-13 18:54:37,False,13,3,2024,18,2024-03-13,2024-03
+12449,noreply@uber.com,13.95,4.29,[Família] Sua viagem de quinta-feiraà tarde com a Uber,2024-03-14 13:13:53,False,14,3,2024,13,2024-03-14,2024-03
+12473,noreply@uber.com,11.94,3.22,[Família] Sua viagem de segunda-feira demanhã com a Uber,2024-03-18 10:34:54,False,18,3,2024,10,2024-03-18,2024-03
+12475,noreply@uber.com,16.94,2.68,[Família] Sua viagem de segunda-feira à tarde com a Uber,2024-03-18 12:37:07,False,18,3,2024,12,2024-03-18,2024-03
+12494,noreply@uber.com,35.92,11.01,[Família] Sua viagem de quarta-feira de manhã com a Uber,2024-03-20 08:39:49,False,20,3,2024,8,2024-03-20,2024-03
+12498,noreply@uber.com,12.96,2.5,[Família] Sua viagem de quarta-feira de manhã com a Uber,2024-03-20 10:52:26,False,20,3,2024,10,2024-03-20,2024-03
+12514,noreply@uber.com,12.97,2.15,[Família] Sua viagem de sexta-feira de manhã com a Uber,2024-03-22 11:24:23,False,22,3,2024,11,2024-03-22,2024-03
+12528,noreply@uber.com,7.58,1.24,Sua viagem de domingo à tarde com a Uber,2024-03-24 12:11:16,True,24,3,2024,12,2024-03-24,2024-03
+12533,noreply@uber.com,9.92,2.01,[Família] Sua viagem de segunda-feira de manhã com a Uber,2024-03-25 09:50:37,False,25,3,2024,9,2024-03-25,2024-03
+12600,noreply@uber.com,15.77,8.38,[Família] Sua viagem de quarta-feira demanhã com a Uber,2024-04-03 09:25:33,False,3,4,2024,9,2024-04-03,2024-04
+12601,noreply@uber.com,14.49,2.16,[Família] Sua viagem de quarta-feira de manhã com a Uber,2024-04-03 09:53:36,False,3,4,2024,9,2024-04-03,2024-04
+12623,noreply@uber.com,31.91,9.48,[Família] Sua viagem de sexta-feira demanhã com a Uber,2024-04-05 08:13:18,False,5,4,2024,8,2024-04-05,2024-04
+12624,noreply@uber.com,13.65,2.27,[Família] Sua viagem de sexta-feira de manhã com a Uber,2024-04-05 08:38:47,False,5,4,2024,8,2024-04-05,2024-04
+12629,noreply@uber.com,20.54,9.68,[Família] Sua viagem de sexta-feiraà noite com a Uber,2024-04-05 18:51:24,False,5,4,2024,18,2024-04-05,2024-04
+12692,noreply@uber.com,14.63,2.18,[Família] Sua viagem de terça-feira demanhã com a Uber,2024-04-16 09:42:06,False,16,4,2024,9,2024-04-16,2024-04
+12699,noreply@uber.com,16.95,0.91,[Família] Sua viagem de terça-feira à tarde com a Uber,2024-04-16 16:48:11,False,16,4,2024,16,2024-04-16,2024-04
+12719,noreply@uber.com,7.94,1.39,[Família] Sua viagem de quinta-feira de manhã com a Uber,2024-04-18 10:03:03,False,18,4,2024,10,2024-04-18,2024-04
+12756,noreply@uber.com,9.92,2.19,Sua viagem de terça-feira à tarde com a Uber,2024-04-23 15:29:08,True,23,4,2024,15,2024-04-23,2024-04
+12757,noreply@uber.com,10.98,2.72,Sua viagem de terça-feira à tarde com a Uber,2024-04-23 16:23:34,True,23,4,2024,16,2024-04-23,2024-04
+12789,noreply@uber.com,29.11,8.85,[Família] Sua viagem de domingo à tarde com a Uber,2024-04-28 12:57:34,False,28,4,2024,12,2024-04-28,2024-04
+12795,noreply@uber.com,30.56,9.66,[Família] Sua viagem de domingo ànoite com a Uber,2024-04-28 18:42:58,False,28,4,2024,18,2024-04-28,2024-04
+12839,noreply@uber.com,19.86,1.38,[Família] Sua viagem de sexta-feiraà tarde com a Uber,2024-05-03 12:24:48,False,3,5,2024,12,2024-05-03,2024-05
+12872,noreply@uber.com,31.38,9.95,[Família] Sua viagem de quinta-feira de manhã com a Uber,2024-05-09 08:29:31,False,9,5,2024,8,2024-05-09,2024-05
+12876,noreply@uber.com,26.29,9.6,[Família] Sua viagem de quinta-feira à tarde com a Uber,2024-05-09 16:31:52,False,9,5,2024,16,2024-05-09,2024-05
+12884,noreply@uber.com,8.02,0.99,[Família] Sua viagem de sexta-feiraà tarde com a Uber,2024-05-10 13:23:48,False,10,5,2024,13,2024-05-10,2024-05
+12943,noreply@uber.com,15.13,2.31,[Família] Sua viagem de quinta-feira demanhã com a Uber,2024-05-16 11:40:20,False,16,5,2024,11,2024-05-16,2024-05
+12956,noreply@uber.com,11.27,1.4,[Família] Sua viagem de sexta-feira demanhã com a Uber,2024-05-17 09:31:19,False,17,5,2024,9,2024-05-17,2024-05
+12981,noreply@uber.com,9.99,1.85,[Família] Sua viagem de terça-feira demanhã com a Uber,2024-05-21 10:18:38,False,21,5,2024,10,2024-05-21,2024-05
+13023,noreply@uber.com,8.99,1.62,Sua viagem de quinta-feira à tarde com a Uber,2024-05-23 15:12:31,True,23,5,2024,15,2024-05-23,2024-05
+13024,noreply@uber.com,12.98,3.41,Sua viagem de quinta-feira à tarde com a Uber,2024-05-23 15:54:26,True,23,5,2024,15,2024-05-23,2024-05
+13056,noreply@uber.com,16.23,2.32,[Família] Sua viagem de terça-feira demanhã com a Uber,2024-05-28 10:40:10,False,28,5,2024,10,2024-05-28,2024-05
+13091,noreply@uber.com,8.99,1.93,[Família] Sua viagem de sexta-feira à tarde com a Uber,2024-05-31 15:15:06,False,31,5,2024,15,2024-05-31,2024-05
+13113,noreply@uber.com,15.83,3.44,[Família] Sua viagem de segunda-feiraà tarde com a Uber,2024-06-03 16:33:13,False,3,6,2024,16,2024-06-03,2024-06
+13114,noreply@uber.com,14.63,3.37,[Família] Sua viagem de segunda-feira à noite com a Uber,2024-06-03 20:50:32,False,3,6,2024,20,2024-06-03,2024-06
+13168,noreply@uber.com,22.91,9.36,[Família] Sua viagem de segunda-feira demanhã com a Uber,2024-06-10 07:53:08,False,10,6,2024,7,2024-06-10,2024-06
+13169,noreply@uber.com,13.46,2.0,[Família] Sua viagem de segunda-feira demanhã com a Uber,2024-06-10 08:49:54,False,10,6,2024,8,2024-06-10,2024-06
+13174,noreply@uber.com,19.97,9.72,[Família] Sua viagem de segunda-feiraà tarde com a Uber,2024-06-10 15:47:55,False,10,6,2024,15,2024-06-10,2024-06
+13183,noreply@uber.com,16.0,2.34,[Família] Sua viagem de terça-feira de manhã com a Uber,2024-06-11 10:40:18,False,11,6,2024,10,2024-06-11,2024-06
+13262,noreply@uber.com,8.98,1.24,[Família] Sua viagem de quarta-feira de manhã com a Uber,2024-06-19 11:21:44,False,19,6,2024,11,2024-06-19,2024-06
+13275,noreply@uber.com,8.95,0.95,[Família] Sua viagem de quinta-feira à tarde com a Uber,2024-06-20 14:08:05,False,20,6,2024,14,2024-06-20,2024-06
+13276,noreply@uber.com,10.93,1.6,Sua viagem de quinta-feira à tarde com a Uber,2024-06-20 15:46:17,True,20,6,2024,15,2024-06-20,2024-06
+13277,noreply@uber.com,14.97,2.85,[Família] Sua viagem de quinta-feira à tarde com a Uber,2024-06-20 16:06:12,False,20,6,2024,16,2024-06-20,2024-06
+13279,noreply@uber.com,13.97,2.34,[Família] Sua viagem de quinta-feira à noite com a Uber,2024-06-20 17:25:46,False,20,6,2024,17,2024-06-20,2024-06
+13280,noreply@uber.com,14.96,3.22,Sua viagem de quinta-feira à noite com a Uber,2024-06-20 17:48:02,True,20,6,2024,17,2024-06-20,2024-06
+13290,noreply@uber.com,8.99,1.15,[Família] Sua viagem de sexta-feira à noite com a Uber,2024-06-21 19:01:27,False,21,6,2024,19,2024-06-21,2024-06
+13303,noreply@uber.com,14.69,2.0,[Família] Sua viagem de segunda-feira demanhã com a Uber,2024-06-24 10:10:12,False,24,6,2024,10,2024-06-24,2024-06
+13389,noreply@uber.com,35.15,9.48,[Família] Sua viagem de sexta-feira de manhã com a Uber,2024-07-05 08:25:11,False,5,7,2024,8,2024-07-05,2024-07
+13390,noreply@uber.com,14.59,3.3,[Família] Sua viagem de sexta-feira demanhã com a Uber,2024-07-05 08:51:28,False,5,7,2024,8,2024-07-05,2024-07
+13403,noreply@uber.com,32.97,10.75,[Família] Sua viagem de sexta-feira à noite com a Uber,2024-07-05 19:41:23,False,5,7,2024,19,2024-07-05,2024-07
+13409,noreply@uber.com,10.3,1.02,[Família] Sua viagem de domingo demanhã com a Uber,2024-07-07 09:32:41,False,7,7,2024,9,2024-07-07,2024-07
+13441,noreply@uber.com,10.96,1.03,[Família] Sua viagem de quinta-feira de manhã com a Uber,2024-07-11 11:21:13,False,11,7,2024,11,2024-07-11,2024-07
+13463,noreply@uber.com,8.94,1.01,[Família] Sua viagem de sábado demanhã com a Uber,2024-07-13 10:32:35,False,13,7,2024,10,2024-07-13,2024-07
+13563,noreply@uber.com,14.11,2.13,[Família] Sua viagem de sexta-feira à noite com a Uber,2024-07-26 17:47:23,False,26,7,2024,17,2024-07-26,2024-07
+13565,noreply@uber.com,44.82,10.86,[Família] Sua viagem de sexta-feira à noite com a Uber,2024-07-26 19:36:40,False,26,7,2024,19,2024-07-26,2024-07
+13616,noreply@uber.com,13.06,2.35,[Família] Sua viagem de domingo à tarde com a Uber,2024-08-04 13:00:15,False,4,8,2024,13,2024-08-04,2024-08
+13669,noreply@uber.com,16.99,2.04,Sua viagem de domingo de manhã com a Uber,2024-08-11 07:06:25,True,11,8,2024,7,2024-08-11,2024-08
+13670,noreply@uber.com,13.01,1.6,[Família] Sua viagem de domingo de manhã com a Uber,2024-08-11 07:14:33,False,11,8,2024,7,2024-08-11,2024-08
+13672,noreply@uber.com,15.91,1.92,Sua viagem de domingo à tarde com a Uber,2024-08-11 12:54:21,True,11,8,2024,12,2024-08-11,2024-08
+13674,noreply@uber.com,16.55,2.33,[Família] Sua viagem de domingo à tarde com a Uber,2024-08-11 13:05:17,False,11,8,2024,13,2024-08-11,2024-08
+13675,noreply@uber.com,9.92,1.48,[Família] Sua viagem de domingo àtarde com a Uber,2024-08-11 14:07:06,False,11,8,2024,14,2024-08-11,2024-08
+13676,noreply@uber.com,10.93,1.9,Sua viagem de domingo à tarde com a Uber,2024-08-11 14:09:49,True,11,8,2024,14,2024-08-11,2024-08
+13677,noreply@uber.com,8.9,1.64,Sua viagem de domingo à noite com a Uber,2024-08-11 18:33:06,True,11,8,2024,18,2024-08-11,2024-08
+13678,noreply@uber.com,15.9,2.35,[Família] Sua viagem de domingo à noite com a Uber,2024-08-11 19:23:29,False,11,8,2024,19,2024-08-11,2024-08
+13691,noreply@uber.com,8.92,1.6,Sua viagem de terça-feira à tarde com a Uber,2024-08-13 15:38:51,True,13,8,2024,15,2024-08-13,2024-08
+13692,noreply@uber.com,14.96,3.1,Sua viagem de terça-feira à tarde com a Uber,2024-08-13 16:55:14,True,13,8,2024,16,2024-08-13,2024-08
+13695,noreply@uber.com,30.96,10.37,[Família] Sua viagem de quarta-feira de manhã com a Uber,2024-08-14 06:17:39,False,14,8,2024,6,2024-08-14,2024-08
+13697,noreply@uber.com,10.3,0.99,[Família] Sua viagem de quarta-feira demanhã com a Uber,2024-08-14 08:39:35,False,14,8,2024,8,2024-08-14,2024-08
+13698,noreply@uber.com,10.19,2.08,[Família] Sua viagem de quarta-feira de manhã com a Uber,2024-08-14 09:37:22,False,14,8,2024,9,2024-08-14,2024-08
+13706,noreply@uber.com,20.95,9.5,[Família] Sua viagem de quarta-feiraà noite com a Uber,2024-08-14 17:50:13,False,14,8,2024,17,2024-08-14,2024-08
+13707,noreply@uber.com,25.95,9.5,[Família] Sua viagem de quarta-feira à noite com a Uber,2024-08-14 18:42:57,False,14,8,2024,18,2024-08-14,2024-08
+13736,noreply@uber.com,10.03,1.59,Sua viagem de segunda-feira de manhã com a Uber,2024-08-19 08:35:21,True,19,8,2024,8,2024-08-19,2024-08
+13737,noreply@uber.com,10.29,2.59,Sua viagem de segunda-feira de manhã com a Uber,2024-08-19 09:09:10,True,19,8,2024,9,2024-08-19,2024-08
+13773,noreply@uber.com,9.34,2.23,Sua viagem de sexta-feira de manhã com a Uber,2024-08-23 08:55:29,True,23,8,2024,8,2024-08-23,2024-08
+13776,noreply@uber.com,10.99,3.39,Sua viagem de sexta-feira de manhã com a Uber,2024-08-23 09:45:43,True,23,8,2024,9,2024-08-23,2024-08
+13789,noreply@uber.com,10.05,1.35,Sua viagem de sábado à tarde com a Uber,2024-08-24 12:08:11,True,24,8,2024,12,2024-08-24,2024-08
+13790,noreply@uber.com,11.28,1.1,[Família] Sua viagem de sábado à tarde com a Uber,2024-08-24 13:36:28,False,24,8,2024,13,2024-08-24,2024-08
+13791,noreply@uber.com,24.96,9.54,[Família] Sua viagem de sábado à noite com a Uber,2024-08-24 18:13:54,False,24,8,2024,18,2024-08-24,2024-08
+13792,noreply@uber.com,7.94,0.85,[Família] Sua viagem de sábado à noite com a Uber,2024-08-24 21:12:21,False,24,8,2024,21,2024-08-24,2024-08
+13801,noreply@uber.com,16.88,2.78,[Família] Sua viagem de segunda-feira demanhã com a Uber,2024-08-26 11:28:35,False,26,8,2024,11,2024-08-26,2024-08
+13821,noreply@uber.com,10.96,2.81,[Família] Sua viagem de quarta-feira de manhã com a Uber,2024-08-28 09:55:56,False,28,8,2024,9,2024-08-28,2024-08
+13823,noreply@uber.com,14.19,2.34,[Família] Sua viagem de quarta-feira à tarde com a Uber,2024-08-28 12:35:01,False,28,8,2024,12,2024-08-28,2024-08
+13842,noreply@uber.com,10.91,2.69,[Família] Sua viagem de sexta-feira demanhã com a Uber,2024-08-30 10:42:26,False,30,8,2024,10,2024-08-30,2024-08
+13851,noreply@uber.com,11.95,1.33,[Família] Sua viagem de sexta-feira à noite com a Uber,2024-08-30 19:04:44,False,30,8,2024,19,2024-08-30,2024-08
+13852,noreply@uber.com,8.93,1.09,[Família] Sua viagem de sexta-feiraà noite com a Uber,2024-08-30 20:30:20,False,30,8,2024,20,2024-08-30,2024-08
+13857,noreply@uber.com,12.96,1.06,[Família] Sua viagem de sábado à noite com a Uber,2024-08-31 17:51:37,False,31,8,2024,17,2024-08-31,2024-08
+13872,noreply@uber.com,8.95,0.89,[Família] Sua viagem deterça-feira à tarde com a Uber,2024-09-03 14:10:22,False,3,9,2024,14,2024-09-03,2024-09
+13877,noreply@uber.com,29.34,0.61,[Família] Sua viagem de terça-feira à noite com a Uber,2024-09-03 18:20:15,False,3,9,2024,18,2024-09-03,2024-09
+13893,noreply@uber.com,24.99,10.03,[Família] Sua viagem de sexta-feira demanhã com a Uber,2024-09-06 07:44:27,False,6,9,2024,7,2024-09-06,2024-09
+13894,noreply@uber.com,9.44,2.03,[Família] Sua viagem de sexta-feira de manhã com a Uber,2024-09-06 08:28:23,False,6,9,2024,8,2024-09-06,2024-09
+13900,noreply@uber.com,31.43,10.07,[Família] Sua viagem de sexta-feira à tarde com a Uber,2024-09-06 15:24:44,False,6,9,2024,15,2024-09-06,2024-09
+13952,noreply@uber.com,31.95,9.86,[Família] Sua viagem de quarta-feira de manhã com a Uber,2024-09-18 06:35:52,False,18,9,2024,6,2024-09-18,2024-09
+13956,noreply@uber.com,8.25,1.98,[Família] Sua viagem de quarta-feiraà tarde com a Uber,2024-09-18 12:52:53,False,18,9,2024,12,2024-09-18,2024-09
+13957,noreply@uber.com,30.79,9.61,[Família] Sua viagem de quarta-feiraà tarde com a Uber,2024-09-18 15:28:02,False,18,9,2024,15,2024-09-18,2024-09
+14010,noreply@uber.com,10.97,2.21,Sua viagem de quinta-feira de manhã com a Uber,2024-09-26 09:00:19,True,26,9,2024,9,2024-09-26,2024-09
+14012,noreply@uber.com,10.95,3.09,Sua viagem de quinta-feira de manhã com a Uber,2024-09-26 10:12:43,True,26,9,2024,10,2024-09-26,2024-09
+14050,noreply@uber.com,10.98,2.67,[Família] Sua viagem de segunda-feira de manhã com a Uber,2024-09-30 09:47:11,False,30,9,2024,9,2024-09-30,2024-09
+14059,noreply@uber.com,14.93,1.95,[Família] Sua viagem de segunda-feira à tarde com a Uber,2024-09-30 12:49:55,False,30,9,2024,12,2024-09-30,2024-09
+14109,noreply@uber.com,20.95,8.4,[Família] Sua viagem de quinta-feira à tarde com a Uber,2024-10-03 15:40:11,False,3,10,2024,15,2024-10-03,2024-10
+14127,noreply@uber.com,8.92,1.11,[Família] Sua viagem de domingo de manhã com a Uber,2024-10-06 07:13:17,False,6,10,2024,7,2024-10-06,2024-10
+14132,noreply@uber.com,7.93,1.28,[Família] Sua viagem de domingo de manhã com a Uber,2024-10-06 11:35:06,False,6,10,2024,11,2024-10-06,2024-10
+14133,noreply@uber.com,9.95,5.79,[Família] Sua viagem de domingo à tarde com a Uber,2024-10-06 12:46:24,False,6,10,2024,12,2024-10-06,2024-10
+14135,noreply@uber.com,10.26,1.25,[Família] Sua viagem de domingo à noite com a Uber,2024-10-06 17:43:33,False,6,10,2024,17,2024-10-06,2024-10
+14139,noreply@uber.com,34.52,9.87,[Família] Sua viagem de segunda-feira demanhã com a Uber,2024-10-07 08:03:21,False,7,10,2024,8,2024-10-07,2024-10
+14140,noreply@uber.com,13.24,1.31,[Família] Sua viagem de segunda-feira demanhã com a Uber,2024-10-07 08:20:12,False,7,10,2024,8,2024-10-07,2024-10
+14153,noreply@uber.com,34.63,9.63,[Família] Sua viagem de segunda-feira à noite com a Uber,2024-10-07 19:54:39,False,7,10,2024,19,2024-10-07,2024-10
+14160,noreply@uber.com,16.48,3.36,[Família] Sua viagem deterça-feira à tarde com a Uber,2024-10-08 14:49:59,False,8,10,2024,14,2024-10-08,2024-10
+14162,noreply@uber.com,12.96,2.71,[Família] Sua viagem de terça-feira à noite com a Uber,2024-10-08 19:32:14,False,8,10,2024,19,2024-10-08,2024-10
+14166,noreply@uber.com,23.95,9.15,[Família] Sua viagem de quarta-feira de manhã com a Uber,2024-10-09 10:27:21,False,9,10,2024,10,2024-10-09,2024-10
+14174,noreply@uber.com,23.99,10.24,[Família] Sua viagem de quarta-feira à tarde com a Uber,2024-10-09 16:27:09,False,9,10,2024,16,2024-10-09,2024-10
+14176,noreply@uber.com,26.99,10.24,[Família] Sua viagem de quarta-feira à tarde com a Uber,2024-10-09 17:04:53,False,9,10,2024,17,2024-10-09,2024-10
+14177,noreply@uber.com,28.95,9.15,[Família] Sua viagem de quarta-feira demanhã com a Uber,2024-10-09 18:12:31,False,9,10,2024,18,2024-10-09,2024-10
+14283,noreply@uber.com,21.49,3.23,[Família] Sua viagem de sábado à tarde com a Uber,2024-10-19 12:38:55,False,19,10,2024,12,2024-10-19,2024-10
+14286,noreply@uber.com,13.94,2.46,[Família] Sua viagem de sábado à noite com a Uber,2024-10-19 18:19:32,False,19,10,2024,18,2024-10-19,2024-10
+14354,noreply@uber.com,12.96,2.16,Sua viagem de quinta-feira de manhã com a Uber,2024-10-24 09:12:33,True,24,10,2024,9,2024-10-24,2024-10
+14357,noreply@uber.com,13.44,3.18,Sua viagem de quinta-feira de manhã com a Uber,2024-10-24 10:07:25,True,24,10,2024,10,2024-10-24,2024-10
+14361,noreply@uber.com,22.11,3.17,[Família] Sua viagem de quinta-feira de manhã com a Uber,2024-10-24 11:49:52,False,24,10,2024,11,2024-10-24,2024-10
+14367,noreply@uber.com,18.69,2.43,[Família] Sua viagem de quinta-feira à tarde com a Uber,2024-10-24 14:14:20,False,24,10,2024,14,2024-10-24,2024-10
+14380,noreply@uber.com,33.91,9.48,[Família] Sua viagem de sexta-feira à tarde com a Uber,2024-10-25 12:46:37,False,25,10,2024,12,2024-10-25,2024-10
+14390,noreply@uber.com,32.16,8.92,[Família] Sua viagem de sexta-feira à noite com a Uber,2024-10-25 18:54:44,False,25,10,2024,18,2024-10-25,2024-10
+14396,noreply@uber.com,7.92,1.09,[Família] Sua viagem de domingo de manhã com a Uber,2024-10-27 07:16:58,False,27,10,2024,7,2024-10-27,2024-10
+14398,noreply@uber.com,8.95,1.29,[Família] Sua viagem de domingo demanhã com a Uber,2024-10-27 11:07:05,False,27,10,2024,11,2024-10-27,2024-10
+14399,noreply@uber.com,8.93,1.11,[Família] Sua viagem de domingo à tarde com a Uber,2024-10-27 12:05:13,False,27,10,2024,12,2024-10-27,2024-10
+14401,noreply@uber.com,8.97,1.23,[Família] Sua viagem de domingo à noite com a Uber,2024-10-27 17:35:58,False,27,10,2024,17,2024-10-27,2024-10
+14425,noreply@uber.com,20.73,7.49,[Família] Sua viagem de terça-feira demanhã com a Uber,2024-10-29 11:58:59,False,29,10,2024,11,2024-10-29,2024-10
+14439,noreply@uber.com,8.95,0.6,[Família] Sua viagem de quarta-feira de manhã com a Uber,2024-10-30 09:47:31,False,30,10,2024,9,2024-10-30,2024-10
+14447,noreply@uber.com,9.95,1.26,[Família] Sua viagem de quarta-feira à tarde com a Uber,2024-10-30 12:36:58,False,30,10,2024,12,2024-10-30,2024-10
+14464,noreply@uber.com,14.02,1.94,[Família] Sua viagem de quinta-feiraà tarde com a Uber,2024-10-31 13:15:00,False,31,10,2024,13,2024-10-31,2024-10
+14477,noreply@uber.com,16.89,2.35,[Família] Sua viagem de sexta-feira de manhã com a Uber,2024-11-01 10:58:34,False,1,11,2024,10,2024-11-01,2024-11
+14515,noreply@uber.com,8.96,1.26,Sua viagem de segunda-feira à tarde com a Uber,2024-11-04 15:34:37,True,4,11,2024,15,2024-11-04,2024-11
+14528,noreply@uber.com,6.91,1.25,Sua viagem de terça-feira à tarde com a Uber,2024-11-05 15:36:29,True,5,11,2024,15,2024-11-05,2024-11
+14545,noreply@uber.com,6.92,1.24,Sua viagem de quarta-feira à tarde com a Uber,2024-11-06 15:29:01,True,6,11,2024,15,2024-11-06,2024-11
+14557,noreply@uber.com,6.93,1.26,Sua viagem de quinta-feira à tarde com a Uber,2024-11-07 15:34:02,True,7,11,2024,15,2024-11-07,2024-11
+14560,noreply@uber.com,38.95,9.52,[Família] Sua viagem de sexta-feira de manhã com a Uber,2024-11-08 08:43:08,False,8,11,2024,8,2024-11-08,2024-11
+14561,noreply@uber.com,11.12,2.09,[Família] Sua viagem de sexta-feira demanhã com a Uber,2024-11-08 09:14:56,False,8,11,2024,9,2024-11-08,2024-11
+14567,noreply@uber.com,7.19,1.25,Sua viagem de sexta-feira à tarde com a Uber,2024-11-08 15:31:35,True,8,11,2024,15,2024-11-08,2024-11
+14571,noreply@uber.com,34.2,9.74,[Família] Sua viagem de sexta-feira à noite com a Uber,2024-11-08 18:59:48,False,8,11,2024,18,2024-11-08,2024-11
+14588,noreply@uber.com,6.98,1.51,Sua viagem de segunda-feira à tarde com a Uber,2024-11-11 15:45:59,True,11,11,2024,15,2024-11-11,2024-11
+14595,noreply@uber.com,8.92,1.6,Sua viagem de terça-feira de manhã com a Uber,2024-11-12 08:58:34,True,12,11,2024,8,2024-11-12,2024-11
+14596,noreply@uber.com,10.99,2.58,Sua viagem de terça-feira de manhã com a Uber,2024-11-12 09:37:08,True,12,11,2024,9,2024-11-12,2024-11
+14617,noreply@uber.com,6.95,1.25,Sua viagem de quarta-feira à tarde com a Uber,2024-11-13 15:44:07,True,13,11,2024,15,2024-11-13,2024-11
+14665,noreply@uber.com,11.9,2.92,[Família] Sua viagem de quinta-feira de manhã com a Uber,2024-11-14 09:30:32,False,14,11,2024,9,2024-11-14,2024-11
+14664,noreply@uber.com,19.56,2.71,[Família] Sua viagem de quinta-feira demanhã com a Uber,2024-11-14 11:32:18,False,14,11,2024,11,2024-11-14,2024-11
+14663,noreply@uber.com,6.9,0.6,Sua viagem de quinta-feira de manhã com a Uber,2024-11-14 11:48:52,True,14,11,2024,11,2024-11-14,2024-11
+14040,noreply@uber.com,7.92,1.23,[Família] Sua viagem de sábado à tarde com a Uber,2024-11-23 16:08:56,False,23,11,2024,16,2024-11-23,2024-11
+14064,noreply@uber.com,9.96,2.21,Sua viagem de terça-feira de manhã com a Uber,2024-11-26 08:33:45,True,26,11,2024,8,2024-11-26,2024-11
+14065,noreply@uber.com,12.97,3.1,Sua viagem de terça-feira de manhã com a Uber,2024-11-26 09:29:22,True,26,11,2024,9,2024-11-26,2024-11
+14083,noreply@uber.com,6.96,1.26,Sua viagem de quarta-feira à tarde com a Uber,2024-11-27 15:59:51,True,27,11,2024,15,2024-11-27,2024-11
+14094,noreply@uber.com,6.95,1.26,Sua viagem de quinta-feira à tarde com a Uber,2024-11-28 15:37:08,True,28,11,2024,15,2024-11-28,2024-11
+14101,noreply@uber.com,10.71,1.04,Sua viagem de sexta-feira à tarde com a Uber,2024-11-29 15:12:47,True,29,11,2024,15,2024-11-29,2024-11
+14129,noreply@uber.com,10.98,2.55,Sua viagem de terça-feira de manhã com a Uber,2024-12-03 09:45:43,True,3,12,2024,9,2024-12-03,2024-12
+14155,noreply@uber.com,6.96,1.23,Sua viagem de quinta-feira à tarde com a Uber,2024-12-05 15:29:23,True,5,12,2024,15,2024-12-05,2024-12
+14156,noreply@uber.com,10.23,0.92,[Família] Sua viagem de quinta-feira à tarde com a Uber,2024-12-05 15:54:13,False,5,12,2024,15,2024-12-05,2024-12
+14157,noreply@uber.com,12.07,0.76,[Família] Sua viagem de quinta-feira à noite com a Uber,2024-12-05 17:06:42,False,5,12,2024,17,2024-12-05,2024-12
+14165,noreply@uber.com,39.93,9.93,[Família] Sua viagem de sexta-feira de manhã com a Uber,2024-12-06 08:58:35,False,6,12,2024,8,2024-12-06,2024-12
+14167,noreply@uber.com,11.43,1.76,[Família] Sua viagem de sexta-feira de manhã com a Uber,2024-12-06 11:26:30,False,6,12,2024,11,2024-12-06,2024-12
+14170,noreply@uber.com,14.75,2.01,[Família] Sua viagem de sexta-feiraà tarde com a Uber,2024-12-06 14:35:22,False,6,12,2024,14,2024-12-06,2024-12
+14172,noreply@uber.com,14.49,2.22,[Família] Sua viagem de sexta-feira à tarde com a Uber,2024-12-06 16:59:59,False,6,12,2024,16,2024-12-06,2024-12
+14175,noreply@uber.com,30.92,9.63,[Família] Sua viagem de sexta-feiraà noite com a Uber,2024-12-06 18:35:17,False,6,12,2024,18,2024-12-06,2024-12
+14180,noreply@uber.com,10.23,0.84,[Família] Sua viagem de terça-feira de manhã com a Uber,2024-12-10 07:58:45,False,10,12,2024,7,2024-12-10,2024-12
+14181,noreply@uber.com,9.66,1.96,Sua viagem de terça-feira de manhã com a Uber,2024-12-10 09:29:10,True,10,12,2024,9,2024-12-10,2024-12
+14183,noreply@uber.com,7.27,1.54,Sua viagem de terça-feira de manhã com a Uber,2024-12-10 09:58:10,True,10,12,2024,9,2024-12-10,2024-12
+14184,noreply@uber.com,8.63,0.6,Sua viagem de terça-feira à tarde com a Uber,2024-12-10 12:26:08,True,10,12,2024,12,2024-12-10,2024-12
+14185,noreply@uber.com,18.57,1.26,Sua viagem de terça-feira à noite com a Uber,2024-12-10 20:12:53,True,10,12,2024,20,2024-12-10,2024-12
+14210,noreply@uber.com,38.78,11.7,[Família] Sua viagem de sexta-feira de manhã com a Uber,2024-12-13 10:01:26,False,13,12,2024,10,2024-12-13,2024-12
+14213,noreply@uber.com,13.24,1.9,[Família] Sua viagem de sexta-feira à tarde com a Uber,2024-12-13 15:08:43,False,13,12,2024,15,2024-12-13,2024-12
+14215,noreply@uber.com,14.0,2.32,[Família] Sua viagem de sexta-feira à tarde com a Uber,2024-12-13 16:02:39,False,13,12,2024,16,2024-12-13,2024-12
+14218,noreply@uber.com,31.44,10.27,[Família] Sua viagem de sexta-feira à noite com a Uber,2024-12-13 18:11:45,False,13,12,2024,18,2024-12-13,2024-12
+14233,noreply@uber.com,7.99,1.59,Sua viagem de segunda-feira de manhã com a Uber,2024-12-16 09:44:59,True,16,12,2024,9,2024-12-16,2024-12
+14255,noreply@uber.com,11.94,3.16,Sua viagem de terça-feira de manhã com a Uber,2024-12-17 08:37:30,True,17,12,2024,8,2024-12-17,2024-12
+14258,noreply@uber.com,9.92,2.37,Sua viagem de terça-feira de manhã com a Uber,2024-12-17 09:03:23,True,17,12,2024,9,2024-12-17,2024-12
+14265,noreply@uber.com,30.55,7.66,[Família] Sua viagem de terça-feira à noite com a Uber,2024-12-17 18:08:40,False,17,12,2024,18,2024-12-17,2024-12
+14278,noreply@uber.com,13.92,0.66,[Família] Sua viagem de quarta-feira à tarde com a Uber,2024-12-18 14:20:53,False,18,12,2024,14,2024-12-18,2024-12
+14284,noreply@uber.com,11.98,1.26,[Família] Sua viagem de quarta-feira à tarde com a Uber,2024-12-18 16:17:48,False,18,12,2024,16,2024-12-18,2024-12
+14300,noreply@uber.com,14.51,2.02,[Família] Sua viagem de quinta-feira demanhã com a Uber,2024-12-19 11:41:07,False,19,12,2024,11,2024-12-19,2024-12
+14311,noreply@uber.com,7.78,0.61,Sua viagem de sexta-feira à tarde com a Uber,2024-12-20 13:08:29,True,20,12,2024,13,2024-12-20,2024-12
+14315,noreply@uber.com,11.93,1.25,Sua viagem de sexta-feira à noite com a Uber,2024-12-20 19:29:01,True,20,12,2024,19,2024-12-20,2024-12
+14316,noreply@uber.com,16.58,0.76,[Família] Sua viagem de sexta-feira à noite com a Uber,2024-12-20 19:30:08,False,20,12,2024,19,2024-12-20,2024-12
+14332,noreply@uber.com,16.45,2.89,[Família] Sua viagem de sábado à noite com a Uber,2024-12-21 19:25:20,False,21,12,2024,19,2024-12-21,2024-12
+14335,noreply@uber.com,14.83,1.69,[Família] Sua viagem de domingo de manhã com a Uber,2024-12-22 01:25:31,False,22,12,2024,1,2024-12-22,2024-12
+14338,noreply@uber.com,7.87,2.05,Sua viagem de segunda-feira de manhã com a Uber,2024-12-23 07:48:12,True,23,12,2024,7,2024-12-23,2024-12
+14343,noreply@uber.com,7.93,1.56,Sua viagem de segunda-feira de manhã com a Uber,2024-12-23 09:36:19,True,23,12,2024,9,2024-12-23,2024-12
+14345,noreply@uber.com,6.9,0.63,Sua viagem de segunda-feira à tarde com a Uber,2024-12-23 12:56:13,True,23,12,2024,12,2024-12-23,2024-12
+14350,noreply@uber.com,9.47,1.26,Sua viagem de segunda-feira à noite com a Uber,2024-12-23 19:15:04,True,23,12,2024,19,2024-12-23,2024-12
+14364,noreply@uber.com,9.95,1.87,[Família] Sua viagem de terça-feira de manhã com a Uber,2024-12-24 11:25:16,False,24,12,2024,11,2024-12-24,2024-12
+14366,noreply@uber.com,11.91,1.25,Sua viagem de terça-feira à tarde com a Uber,2024-12-24 14:22:49,True,24,12,2024,14,2024-12-24,2024-12
+14370,noreply@uber.com,18.98,2.06,Sua viagem de quarta-feira à noite com a Uber,2024-12-25 18:34:39,True,25,12,2024,18,2024-12-25,2024-12
+14372,noreply@uber.com,18.41,1.08,[Família] Sua viagem de quarta-feira à noite com a Uber,2024-12-25 21:07:58,False,25,12,2024,21,2024-12-25,2024-12
+14376,noreply@uber.com,12.99,3.13,Sua viagem de quinta-feira de manhã com a Uber,2024-12-26 10:12:10,True,26,12,2024,10,2024-12-26,2024-12
+14378,noreply@uber.com,10.98,2.45,Sua viagem de quinta-feira de manhã com a Uber,2024-12-26 12:00:35,True,26,12,2024,12,2024-12-26,2024-12
+14381,noreply@uber.com,11.15,0.9,[Família] Sua viagem de quinta-feira à noite com a Uber,2024-12-26 17:14:15,False,26,12,2024,17,2024-12-26,2024-12
+14385,noreply@uber.com,8.91,1.24,Sua viagem de quinta-feira à noite com a Uber,2024-12-26 19:19:21,True,26,12,2024,19,2024-12-26,2024-12
+14391,noreply@uber.com,7.32,0.59,Sua viagem de sexta-feira à tarde com a Uber,2024-12-27 13:01:55,True,27,12,2024,13,2024-12-27,2024-12
+14397,noreply@uber.com,7.59,1.24,Sua viagem de sexta-feira à noite com a Uber,2024-12-27 19:19:44,True,27,12,2024,19,2024-12-27,2024-12
+14422,noreply@uber.com,6.93,0.61,Sua viagem de segunda-feira à tarde com a Uber,2024-12-30 13:19:06,True,30,12,2024,13,2024-12-30,2024-12
+14427,noreply@uber.com,7.44,1.33,Sua viagem de segunda-feira à noite com a Uber,2024-12-30 19:20:52,True,30,12,2024,19,2024-12-30,2024-12
+14435,noreply@uber.com,8.32,1.26,Sua viagem de terça-feira à tarde com a Uber,2024-12-31 14:21:38,True,31,12,2024,14,2024-12-31,2024-12
+14591,noreply@uber.com,7.37,1.32,Sua viagem de quinta-feira de manhã com a Uber,2025-01-16 08:44:14,True,16,1,2025,8,2025-01-16,2025-01
+14592,noreply@uber.com,12.37,1.32,Sua viagem de quinta-feira de manhã com a Uber,2025-01-16 08:50:46,True,16,1,2025,8,2025-01-16,2025-01
+14597,noreply@uber.com,8.96,2.24,Sua viagem de quinta-feira de manhã com a Uber,2025-01-16 09:58:18,True,16,1,2025,9,2025-01-16,2025-01
+14609,noreply@uber.com,10.65,1.29,[Família] Sua viagem de quinta-feiraà tarde com a Uber,2025-01-16 15:08:40,False,16,1,2025,15,2025-01-16,2025-01
+14616,noreply@uber.com,14.75,2.0,Sua viagem de sexta-feira de manhã com a Uber,2025-01-17 09:26:42,True,17,1,2025,9,2025-01-17,2025-01
+14618,noreply@uber.com,6.96,1.7,[Família] Sua viagem de sexta-feira de manhã com a Uber,2025-01-17 11:36:44,False,17,1,2025,11,2025-01-17,2025-01
+14624,noreply@uber.com,12.39,1.71,[Família] Sua viagem de sexta-feiraà tarde com a Uber,2025-01-17 12:40:50,False,17,1,2025,12,2025-01-17,2025-01
+14641,noreply@uber.com,11.93,1.84,Sua viagem de segunda-feira de manhã com a Uber,2025-01-20 08:09:26,True,20,1,2025,8,2025-01-20,2025-01
+14644,noreply@uber.com,22.97,7.65,[Família] Sua viagem de segunda-feira de manhã com a Uber,2025-01-20 09:43:23,False,20,1,2025,9,2025-01-20,2025-01
+14648,noreply@uber.com,8.91,1.54,Sua viagem de segunda-feira à tarde com a Uber,2025-01-20 13:28:43,True,20,1,2025,13,2025-01-20,2025-01
+14655,noreply@uber.com,9.94,1.89,Sua viagem de terça-feira de manhã com a Uber,2025-01-21 08:07:39,True,21,1,2025,8,2025-01-21,2025-01
+14672,noreply@uber.com,9.95,1.79,Sua viagem de quarta-feira de manhã com a Uber,2025-01-22 08:14:00,True,22,1,2025,8,2025-01-22,2025-01
+14674,noreply@uber.com,16.99,1.55,Sua viagem de quarta-feira à tarde com a Uber,2025-01-22 13:07:26,True,22,1,2025,13,2025-01-22,2025-01
+14685,noreply@uber.com,9.91,1.83,Sua viagem de quinta-feira de manhã com a Uber,2025-01-23 08:09:14,True,23,1,2025,8,2025-01-23,2025-01
+14692,noreply@uber.com,9.45,1.55,Sua viagem de quinta-feira à tarde com a Uber,2025-01-23 13:48:54,True,23,1,2025,13,2025-01-23,2025-01
+14707,noreply@uber.com,11.94,1.87,Sua viagem de sexta-feira de manhã com a Uber,2025-01-24 08:32:35,True,24,1,2025,8,2025-01-24,2025-01
+14708,noreply@uber.com,16.94,1.87,Sua viagem de sexta-feira de manhã com a Uber,2025-01-24 09:45:04,True,24,1,2025,9,2025-01-24,2025-01
+14715,noreply@uber.com,12.79,1.58,Sua viagem de sexta-feira à tarde com a Uber,2025-01-24 13:35:30,True,24,1,2025,13,2025-01-24,2025-01
+14718,noreply@uber.com,6.4,1.28,Sua viagem de sexta-feira à tarde com a Uber,2025-01-24 14:42:45,True,24,1,2025,14,2025-01-24,2025-01
+14719,noreply@uber.com,10.51,1.28,Sua viagem de sexta-feira à tarde com a Uber,2025-01-24 14:43:21,True,24,1,2025,14,2025-01-24,2025-01
+14720,noreply@uber.com,10.92,1.72,Sua viagem de sexta-feira à tarde com a Uber,2025-01-24 15:26:28,True,24,1,2025,15,2025-01-24,2025-01
+14721,noreply@uber.com,6.95,1.72,Sua viagem de sexta-feira à tarde com a Uber,2025-01-24 15:45:04,True,24,1,2025,15,2025-01-24,2025-01
+14743,noreply@uber.com,8.99,1.62,Sua viagem de segunda-feira de manhã com a Uber,2025-01-27 09:07:01,True,27,1,2025,9,2025-01-27,2025-01
+14749,noreply@uber.com,18.97,1.53,Sua viagem de segunda-feira à tarde com a Uber,2025-01-27 12:45:00,True,27,1,2025,12,2025-01-27,2025-01
+14753,noreply@uber.com,17.49,6.54,[Família] Sua viagem de segunda-feiraà tarde com a Uber,2025-01-27 13:56:54,False,27,1,2025,13,2025-01-27,2025-01
+14761,noreply@uber.com,10.23,1.87,Sua viagem de terça-feira de manhã com a Uber,2025-01-28 08:48:21,True,28,1,2025,8,2025-01-28,2025-01
+14766,noreply@uber.com,11.9,1.55,Sua viagem de terça-feira à tarde com a Uber,2025-01-28 13:26:45,True,28,1,2025,13,2025-01-28,2025-01
+14772,noreply@uber.com,22.98,7.78,[Família] Sua viagem de terça-feira à tarde com a Uber,2025-01-28 14:25:20,False,28,1,2025,14,2025-01-28,2025-01
+14777,noreply@uber.com,10.97,1.86,Sua viagem de quarta-feira de manhã com a Uber,2025-01-29 08:21:33,True,29,1,2025,8,2025-01-29,2025-01
+14785,noreply@uber.com,22.77,9.83,[Família] Sua viagem de quarta-feira à tarde com a Uber,2025-01-29 13:15:32,False,29,1,2025,13,2025-01-29,2025-01
+14788,noreply@uber.com,12.9,1.32,Sua viagem de quarta-feira à tarde com a Uber,2025-01-29 13:47:50,True,29,1,2025,13,2025-01-29,2025-01
+14793,noreply@uber.com,22.98,7.52,[Família] Sua viagem de quarta-feira à tarde com a Uber,2025-01-29 15:11:19,False,29,1,2025,15,2025-01-29,2025-01
+14801,noreply@uber.com,10.9,1.8,Sua viagem de quinta-feira de manhã com a Uber,2025-01-30 08:33:33,True,30,1,2025,8,2025-01-30,2025-01
+14815,noreply@uber.com,13.01,1.55,Sua viagem de quinta-feira à tarde com a Uber,2025-01-30 15:08:56,True,30,1,2025,15,2025-01-30,2025-01
+14832,noreply@uber.com,26.92,6.78,[Família] Sua viagem de sexta-feiraà tarde com a Uber,2025-01-31 14:06:52,False,31,1,2025,14,2025-01-31,2025-01
+14833,noreply@uber.com,12.39,1.31,Sua viagem de sexta-feira à tarde com a Uber,2025-01-31 14:19:58,True,31,1,2025,14,2025-01-31,2025-01
+14834,noreply@uber.com,8.94,1.99,Sua viagem de sexta-feira à tarde com a Uber,2025-01-31 15:14:47,True,31,1,2025,15,2025-01-31,2025-01
+14845,noreply@uber.com,13.95,1.34,Sua viagem de sábado à tarde com a Uber,2025-02-01 13:11:14,True,1,2,2025,13,2025-02-01,2025-02
+14848,noreply@uber.com,17.47,1.19,Sua viagem de sábado à tarde com a Uber,2025-02-01 14:37:18,True,1,2,2025,14,2025-02-01,2025-02
+14854,noreply@uber.com,19.21,1.97,Sua viagem de segunda-feira de manhã com a Uber,2025-02-03 07:59:31,True,3,2,2025,7,2025-02-03,2025-02
+14858,noreply@uber.com,10.93,1.54,Sua viagem de segunda-feira à tarde com a Uber,2025-02-03 14:38:09,True,3,2,2025,14,2025-02-03,2025-02
+14869,noreply@uber.com,15.92,1.86,Sua viagem de terça-feira de manhã com a Uber,2025-02-04 08:22:53,True,4,2,2025,8,2025-02-04,2025-02
+14874,noreply@uber.com,26.85,7.08,[Família] Sua viagem de terça-feira à tarde com a Uber,2025-02-04 13:21:19,False,4,2,2025,13,2025-02-04,2025-02
+14875,noreply@uber.com,26.85,7.08,[Família] Sua viagem de terça-feira à tarde com a Uber,2025-02-04 13:22:24,False,4,2,2025,13,2025-02-04,2025-02
+14877,noreply@uber.com,10.98,1.55,Sua viagem de terça-feira à tarde com a Uber,2025-02-04 15:14:58,True,4,2,2025,15,2025-02-04,2025-02
+14881,noreply@uber.com,29.97,8.21,[Família] Sua viagem deterça-feira à noite com a Uber,2025-02-04 21:19:15,False,4,2,2025,21,2025-02-04,2025-02
+14919,noreply@uber.com,10.63,1.86,Sua viagem de quarta-feira de manhã com a Uber,2025-02-05 08:20:11,True,5,2,2025,8,2025-02-05,2025-02
+14923,noreply@uber.com,11.97,1.6,Sua viagem de quarta-feira à tarde com a Uber,2025-02-05 15:31:54,True,5,2,2025,15,2025-02-05,2025-02
+14927,noreply@uber.com,10.9,1.98,Sua viagem de quinta-feira de manhã com a Uber,2025-02-06 08:11:24,True,6,2,2025,8,2025-02-06,2025-02
+14935,noreply@uber.com,8.93,1.54,Sua viagem de quinta-feira à tarde com a Uber,2025-02-06 14:49:38,True,6,2,2025,14,2025-02-06,2025-02
+14942,noreply@uber.com,9.92,1.62,Sua viagem de sexta-feira de manhã com a Uber,2025-02-07 08:05:09,True,7,2,2025,8,2025-02-07,2025-02
+14946,noreply@uber.com,26.99,9.33,[Família] Sua viagem de sexta-feira de manhã com a Uber,2025-02-07 09:50:40,False,7,2,2025,9,2025-02-07,2025-02
+14947,noreply@uber.com,10.96,2.82,[Família] Sua viagem de sexta-feira de manhã com a Uber,2025-02-07 10:45:42,False,7,2,2025,10,2025-02-07,2025-02
+14953,noreply@uber.com,10.97,2.5,Sua viagem de sexta-feira à tarde com a Uber,2025-02-07 14:53:24,True,7,2,2025,14,2025-02-07,2025-02
+14954,noreply@uber.com,12.95,3.14,Sua viagem de sexta-feira à tarde com a Uber,2025-02-07 16:09:56,True,7,2,2025,16,2025-02-07,2025-02
+14960,noreply@uber.com,38.17,9.74,[Família] Sua viagem de sexta-feira à noite com a Uber,2025-02-07 20:44:27,False,7,2,2025,20,2025-02-07,2025-02
+14870,noreply@uber.com,11.96,1.9,Sua viagem de segunda-feira de manhã com a Uber,2025-02-10 08:09:01,True,10,2,2025,8,2025-02-10,2025-02
+14873,noreply@uber.com,22.99,8.66,[Família] Sua viagem de segunda-feira de manhã com a Uber,2025-02-10 11:51:36,False,10,2,2025,11,2025-02-10,2025-02
+14887,noreply@uber.com,16.93,1.87,Sua viagem de terça-feira de manhã com a Uber,2025-02-11 08:03:51,True,11,2,2025,8,2025-02-11,2025-02
+14892,noreply@uber.com,9.47,1.54,Sua viagem de terça-feira à tarde com a Uber,2025-02-11 14:48:07,True,11,2,2025,14,2025-02-11,2025-02
+14896,noreply@uber.com,23.98,9.34,[Família] Sua viagem de quarta-feira de manhã com a Uber,2025-02-12 06:47:48,False,12,2,2025,6,2025-02-12,2025-02
+14906,noreply@uber.com,9.96,1.53,Sua viagem de quarta-feira à tarde com a Uber,2025-02-12 14:53:39,True,12,2,2025,14,2025-02-12,2025-02
+14910,noreply@uber.com,31.26,9.7,[Família] Sua viagem de quarta-feiraà noite com a Uber,2025-02-12 19:55:25,False,12,2,2025,19,2025-02-12,2025-02
+14913,noreply@uber.com,10.91,1.99,Sua viagem de quinta-feira de manhã com a Uber,2025-02-13 08:14:10,True,13,2,2025,8,2025-02-13,2025-02
+14916,noreply@uber.com,8.98,1.46,Sua viagem de quinta-feira à tarde com a Uber,2025-02-13 14:50:37,True,13,2,2025,14,2025-02-13,2025-02
+14921,noreply@uber.com,10.02,1.86,Sua viagem de sexta-feira de manhã com a Uber,2025-02-14 08:09:08,True,14,2,2025,8,2025-02-14,2025-02
+14956,noreply@uber.com,9.91,1.95,Sua viagem de terça-feira de manhã com a Uber,2025-02-18 08:09:13,True,18,2,2025,8,2025-02-18,2025-02
+14963,noreply@uber.com,9.94,1.57,Sua viagem de terça-feira à tarde com a Uber,2025-02-18 14:50:44,True,18,2,2025,14,2025-02-18,2025-02
+14975,noreply@uber.com,9.17,1.89,Sua viagem de quarta-feira de manhã com a Uber,2025-02-19 08:37:49,True,19,2,2025,8,2025-02-19,2025-02
+14982,noreply@uber.com,8.9,1.54,Sua viagem de quarta-feira à tarde com a Uber,2025-02-19 15:21:57,True,19,2,2025,15,2025-02-19,2025-02
+14989,noreply@uber.com,9.95,1.87,Sua viagem de quinta-feira de manhã com a Uber,2025-02-20 08:11:25,True,20,2,2025,8,2025-02-20,2025-02
+14994,noreply@uber.com,9.52,2.12,Sua viagem de quinta-feira à tarde com a Uber,2025-02-20 14:58:52,True,20,2,2025,14,2025-02-20,2025-02
+15001,noreply@uber.com,10.26,1.85,Sua viagem de sexta-feira de manhã com a Uber,2025-02-21 08:14:45,True,21,2,2025,8,2025-02-21,2025-02
+15007,noreply@uber.com,8.92,1.46,Sua viagem de sexta-feira à tarde com a Uber,2025-02-21 14:56:55,True,21,2,2025,14,2025-02-21,2025-02
+15019,noreply@uber.com,10.93,1.59,Sua viagem de segunda-feira de manhã com a Uber,2025-02-24 08:04:23,True,24,2,2025,8,2025-02-24,2025-02
+15027,noreply@uber.com,8.98,1.56,Sua viagem de segunda-feira à tarde com a Uber,2025-02-24 15:23:07,True,24,2,2025,15,2025-02-24,2025-02
+15030,noreply@uber.com,10.96,1.62,Sua viagem de terça-feira de manhã com a Uber,2025-02-25 07:59:36,True,25,2,2025,7,2025-02-25,2025-02
+15035,noreply@uber.com,10.07,1.55,Sua viagem de terça-feira à tarde com a Uber,2025-02-25 14:30:15,True,25,2,2025,14,2025-02-25,2025-02
+15045,noreply@uber.com,9.96,1.54,Sua viagem de quarta-feira à tarde com a Uber,2025-02-26 15:14:49,True,26,2,2025,15,2025-02-26,2025-02
+15048,noreply@uber.com,7.98,1.88,Sua viagem de quinta-feira de manhã com a Uber,2025-02-27 08:11:32,True,27,2,2025,8,2025-02-27,2025-02
+15053,noreply@uber.com,10.91,1.57,Sua viagem de quinta-feira à tarde com a Uber,2025-02-27 14:53:54,True,27,2,2025,14,2025-02-27,2025-02
+15060,noreply@uber.com,12.94,1.85,Sua viagem de sexta-feira de manhã com a Uber,2025-02-28 08:06:56,True,28,2,2025,8,2025-02-28,2025-02
+15070,noreply@uber.com,13.03,1.97,Sua viagem de quinta-feira de manhã com a Uber,2025-03-06 08:01:05,True,6,3,2025,8,2025-03-06,2025-03
+15080,noreply@uber.com,7.96,1.55,Sua viagem de quinta-feira à tarde com a Uber,2025-03-06 15:04:26,True,6,3,2025,15,2025-03-06,2025-03
+15086,noreply@uber.com,9.91,1.43,Sua viagem de sexta-feira de manhã com a Uber,2025-03-07 08:15:02,True,7,3,2025,8,2025-03-07,2025-03
+15092,noreply@uber.com,11.29,2.34,Sua viagem de sexta-feira à tarde com a Uber,2025-03-07 15:30:51,True,7,3,2025,15,2025-03-07,2025-03
+15099,noreply@uber.com,9.62,1.42,[Família] Sua viagem de sábado de manhã com a Uber,2025-03-08 09:12:54,False,8,3,2025,9,2025-03-08,2025-03
+15108,noreply@uber.com,18.93,1.96,Sua viagem de segunda-feira de manhã com a Uber,2025-03-10 08:14:00,True,10,3,2025,8,2025-03-10,2025-03
+15118,noreply@uber.com,11.93,3.18,Sua viagem de segunda-feira à tarde com a Uber,2025-03-10 15:21:55,True,10,3,2025,15,2025-03-10,2025-03
+15127,noreply@uber.com,11.9,1.96,Sua viagem de terça-feira de manhã com a Uber,2025-03-11 08:09:06,True,11,3,2025,8,2025-03-11,2025-03
+15136,noreply@uber.com,8.9,1.55,Sua viagem de terça-feira à tarde com a Uber,2025-03-11 15:06:54,True,11,3,2025,15,2025-03-11,2025-03
+15143,noreply@uber.com,14.97,1.96,Sua viagem de quarta-feira de manhã com a Uber,2025-03-12 08:01:50,True,12,3,2025,8,2025-03-12,2025-03
+15144,noreply@uber.com,36.9,10.04,[Família] Sua viagem de quarta-feira de manhã com a Uber,2025-03-12 08:13:46,False,12,3,2025,8,2025-03-12,2025-03
+15147,noreply@uber.com,9.91,2.83,[Família] Sua viagem de quarta-feira de manhã com a Uber,2025-03-12 08:35:29,False,12,3,2025,8,2025-03-12,2025-03
+15156,noreply@uber.com,9.95,1.53,Sua viagem de quarta-feira à tarde com a Uber,2025-03-12 15:24:34,True,12,3,2025,15,2025-03-12,2025-03
+15157,noreply@uber.com,33.75,9.5,[Família] Sua viagem de quarta-feira à noite com a Uber,2025-03-12 19:24:09,False,12,3,2025,19,2025-03-12,2025-03
+15158,noreply@uber.com,9.98,1.97,Sua viagem de quinta-feira de manhã com a Uber,2025-03-13 08:24:06,True,13,3,2025,8,2025-03-13,2025-03
+15163,noreply@uber.com,23.98,7.65,[Família] Sua viagem de quinta-feiraà tarde com a Uber,2025-03-13 13:04:04,False,13,3,2025,13,2025-03-13,2025-03
+15169,noreply@uber.com,8.91,1.57,Sua viagem de quinta-feira à tarde com a Uber,2025-03-13 15:31:07,True,13,3,2025,15,2025-03-13,2025-03
+15175,noreply@uber.com,8.97,1.94,Sua viagem de sexta-feira de manhã com a Uber,2025-03-14 08:13:42,True,14,3,2025,8,2025-03-14,2025-03
+15178,noreply@uber.com,7.51,1.42,[Família] Sua viagem de sexta-feira de manhã com a Uber,2025-03-14 11:15:01,False,14,3,2025,11,2025-03-14,2025-03
+15185,noreply@uber.com,7.99,1.38,[Família] Sua viagem de sexta-feira à tarde com a Uber,2025-03-14 15:31:23,False,14,3,2025,15,2025-03-14,2025-03
+15207,noreply@uber.com,14.98,1.95,Sua viagem de segunda-feira de manhã com a Uber,2025-03-17 07:59:23,True,17,3,2025,7,2025-03-17,2025-03
+15216,noreply@uber.com,8.93,1.55,Sua viagem de segunda-feira à tarde com a Uber,2025-03-17 15:04:26,True,17,3,2025,15,2025-03-17,2025-03
+15219,noreply@uber.com,14.26,1.93,Sua viagem de terça-feira de manhã com a Uber,2025-03-18 08:13:59,True,18,3,2025,8,2025-03-18,2025-03
+15224,noreply@uber.com,8.95,1.54,Sua viagem de terça-feira à tarde com a Uber,2025-03-18 15:12:32,True,18,3,2025,15,2025-03-18,2025-03
+15228,noreply@uber.com,29.94,7.71,[Família] Sua viagem deterça-feira à noite com a Uber,2025-03-18 18:17:45,False,18,3,2025,18,2025-03-18,2025-03
+15229,noreply@uber.com,21.95,8.23,[Família] Sua viagem de terça-feira à noite com a Uber,2025-03-18 20:46:16,False,18,3,2025,20,2025-03-18,2025-03
+15230,noreply@uber.com,8.97,1.95,Sua viagem de quarta-feira de manhã com a Uber,2025-03-19 08:18:40,True,19,3,2025,8,2025-03-19,2025-03
+15236,noreply@uber.com,9.98,1.55,Sua viagem de quarta-feira à tarde com a Uber,2025-03-19 15:35:01,True,19,3,2025,15,2025-03-19,2025-03
+15242,noreply@uber.com,8.9,2.04,Sua viagem de quinta-feira de manhã com a Uber,2025-03-20 08:17:19,True,20,3,2025,8,2025-03-20,2025-03
+15246,noreply@uber.com,8.97,1.56,Sua viagem de quinta-feira à tarde com a Uber,2025-03-20 15:14:48,True,20,3,2025,15,2025-03-20,2025-03
+15251,noreply@uber.com,8.97,1.95,Sua viagem de sexta-feira de manhã com a Uber,2025-03-21 08:16:49,True,21,3,2025,8,2025-03-21,2025-03
+15253,noreply@uber.com,22.96,1.91,Sua viagem de sexta-feira à tarde com a Uber,2025-03-21 15:36:23,True,21,3,2025,15,2025-03-21,2025-03
+15258,noreply@uber.com,24.32,9.1,[Família] Sua viagem de sábado à noite com a Uber,2025-03-22 20:19:06,False,22,3,2025,20,2025-03-22,2025-03
+15259,noreply@uber.com,27.4,9.86,[Família] Sua viagem de sábado à noite com a Uber,2025-03-22 23:56:11,False,22,3,2025,23,2025-03-22,2025-03
+15263,noreply@uber.com,9.98,1.97,Sua viagem de segunda-feira de manhã com a Uber,2025-03-24 08:23:39,True,24,3,2025,8,2025-03-24,2025-03
+15270,noreply@uber.com,8.92,1.54,Sua viagem de segunda-feira à tarde com a Uber,2025-03-24 15:27:01,True,24,3,2025,15,2025-03-24,2025-03
+15275,noreply@uber.com,9.94,1.68,Sua viagem de terça-feira de manhã com a Uber,2025-03-25 08:16:36,True,25,3,2025,8,2025-03-25,2025-03
+15280,noreply@uber.com,7.95,1.55,Sua viagem de terça-feira à tarde com a Uber,2025-03-25 14:30:55,True,25,3,2025,14,2025-03-25,2025-03
+15285,noreply@uber.com,11.98,1.98,Sua viagem de quarta-feira de manhã com a Uber,2025-03-26 08:13:54,True,26,3,2025,8,2025-03-26,2025-03
+15288,noreply@uber.com,11.92,3.14,[Família] Sua viagem de quarta-feira de manhã com a Uber,2025-03-26 09:13:36,False,26,3,2025,9,2025-03-26,2025-03
+15289,noreply@uber.com,21.92,7.83,[Família] Sua viagem de quarta-feira de manhã com a Uber,2025-03-26 09:19:08,False,26,3,2025,9,2025-03-26,2025-03
+15291,noreply@uber.com,13.39,2.47,[Família] Sua viagem de quarta-feira de manhã com a Uber,2025-03-26 11:26:47,False,26,3,2025,11,2025-03-26,2025-03
+15294,noreply@uber.com,8.91,1.56,Sua viagem de quarta-feira à tarde com a Uber,2025-03-26 15:09:59,True,26,3,2025,15,2025-03-26,2025-03
+15300,noreply@uber.com,8.91,2.67,Sua viagem de quinta-feira de manhã com a Uber,2025-03-27 08:27:04,True,27,3,2025,8,2025-03-27,2025-03
+15302,noreply@uber.com,8.97,1.55,Sua viagem de quinta-feira à tarde com a Uber,2025-03-27 15:23:51,True,27,3,2025,15,2025-03-27,2025-03
+15303,noreply@uber.com,11.58,2.01,[Família] Sua viagem de quinta-feira à tarde com a Uber,2025-03-27 15:40:30,False,27,3,2025,15,2025-03-27,2025-03
+15306,noreply@uber.com,11.93,2.01,Sua viagem de sexta-feira de manhã com a Uber,2025-03-28 08:18:47,True,28,3,2025,8,2025-03-28,2025-03
+15310,noreply@uber.com,11.93,2.17,[Família] Sua viagem de sexta-feira de manhã com a Uber,2025-03-28 10:12:45,False,28,3,2025,10,2025-03-28,2025-03
+15312,noreply@uber.com,12.95,2.65,[Família] Sua viagem de sexta-feira de manhã com a Uber,2025-03-28 10:39:38,False,28,3,2025,10,2025-03-28,2025-03
+15315,noreply@uber.com,8.95,1.55,Sua viagem de sexta-feira à tarde com a Uber,2025-03-28 15:16:14,True,28,3,2025,15,2025-03-28,2025-03
+15332,noreply@uber.com,9.17,1.57,Sua viagem de segunda-feira à tarde com a Uber,2025-03-31 15:20:51,True,31,3,2025,15,2025-03-31,2025-03
+15340,noreply@uber.com,8.94,1.6,Sua viagem de terça-feira de manhã com a Uber,2025-04-01 08:21:21,True,1,4,2025,8,2025-04-01,2025-04
+15343,noreply@uber.com,8.92,1.57,Sua viagem de terça-feira à tarde com a Uber,2025-04-01 15:28:04,True,1,4,2025,15,2025-04-01,2025-04
+15352,noreply@uber.com,9.22,1.89,Sua viagem de quarta-feira de manhã com a Uber,2025-04-02 08:05:44,True,2,4,2025,8,2025-04-02,2025-04
+15355,noreply@uber.com,27.33,7.8,[Família] Sua viagem de quarta-feira à tarde com a Uber,2025-04-02 12:58:40,False,2,4,2025,12,2025-04-02,2025-04
+15359,noreply@uber.com,8.97,1.56,Sua viagem de quarta-feira à tarde com a Uber,2025-04-02 15:29:50,True,2,4,2025,15,2025-04-02,2025-04
+15364,noreply@uber.com,12.94,1.98,Sua viagem de quinta-feira de manhã com a Uber,2025-04-03 08:08:16,True,3,4,2025,8,2025-04-03,2025-04
+15370,noreply@uber.com,7.92,1.23,Sua viagem de quinta-feira à tarde com a Uber,2025-04-03 14:29:48,True,3,4,2025,14,2025-04-03,2025-04
+15382,noreply@uber.com,10.93,1.88,Sua viagem de sexta-feira de manhã com a Uber,2025-04-04 07:56:51,True,4,4,2025,7,2025-04-04,2025-04
+15390,noreply@uber.com,8.91,1.56,Sua viagem de sexta-feira à tarde com a Uber,2025-04-04 14:53:16,True,4,4,2025,14,2025-04-04,2025-04
+15337,noreply@uber.com,33.93,9.47,[Família] Sua viagem de segunda-feira de manhã com a Uber,2025-04-07 09:06:31,False,7,4,2025,9,2025-04-07,2025-04
+15341,noreply@uber.com,10.79,1.76,[Família] Sua viagem de segunda-feira demanhã com a Uber,2025-04-07 10:37:59,False,7,4,2025,10,2025-04-07,2025-04
+15346,noreply@uber.com,8.96,1.56,Sua viagem de segunda-feira à tarde com a Uber,2025-04-07 14:52:56,True,7,4,2025,14,2025-04-07,2025-04
+15350,noreply@uber.com,29.78,9.49,[Família] Sua viagem de segunda-feiraà noite com a Uber,2025-04-07 20:02:38,False,7,4,2025,20,2025-04-07,2025-04
+15356,noreply@uber.com,10.94,1.96,Sua viagem de terça-feira de manhã com a Uber,2025-04-08 08:20:36,True,8,4,2025,8,2025-04-08,2025-04
+15367,noreply@uber.com,8.94,2.22,Sua viagem de quarta-feira de manhã com a Uber,2025-04-09 08:32:45,True,9,4,2025,8,2025-04-09,2025-04
+15375,noreply@uber.com,10.96,1.58,Sua viagem de quarta-feira à tarde com a Uber,2025-04-09 15:17:38,True,9,4,2025,15,2025-04-09,2025-04
+15378,noreply@uber.com,8.91,2.22,Sua viagem de quinta-feira de manhã com a Uber,2025-04-10 08:38:29,True,10,4,2025,8,2025-04-10,2025-04
+15379,noreply@uber.com,7.91,1.39,[Família] Sua viagem de quinta-feira de manhã com a Uber,2025-04-10 09:30:53,False,10,4,2025,9,2025-04-10,2025-04
+15391,noreply@uber.com,11.98,3.22,Sua viagem de quinta-feira à tarde com a Uber,2025-04-10 16:09:41,True,10,4,2025,16,2025-04-10,2025-04
+15394,noreply@uber.com,13.24,1.94,Sua viagem de sexta-feira de manhã com a Uber,2025-04-11 08:09:03,True,11,4,2025,8,2025-04-11,2025-04
+15401,noreply@uber.com,13.92,1.25,Sua viagem de sexta-feira à tarde com a Uber,2025-04-11 13:23:23,True,11,4,2025,13,2025-04-11,2025-04
+15402,noreply@uber.com,8.92,0.86,[Família] Sua viagem de sexta-feira à tarde com a Uber,2025-04-11 13:26:50,False,11,4,2025,13,2025-04-11,2025-04
+15410,noreply@uber.com,9.97,1.64,Sua viagem de segunda-feira de manhã com a Uber,2025-04-14 08:14:14,True,14,4,2025,8,2025-04-14,2025-04
+15412,noreply@uber.com,22.04,8.07,[Família] Sua viagem de segunda-feira de manhã com a Uber,2025-04-14 09:55:43,False,14,4,2025,9,2025-04-14,2025-04
+15414,noreply@uber.com,19.95,7.57,[Família] Sua viagem de segunda-feira demanhã com a Uber,2025-04-14 10:37:29,False,14,4,2025,10,2025-04-14,2025-04
+15419,noreply@uber.com,7.96,1.55,Sua viagem de segunda-feira à tarde com a Uber,2025-04-14 14:52:41,True,14,4,2025,14,2025-04-14,2025-04
+15424,noreply@uber.com,10.98,0.85,Sua viagem de terça-feira de manhã com a Uber,2025-04-15 08:14:52,True,15,4,2025,8,2025-04-15,2025-04
+15430,noreply@uber.com,11.99,2.33,Sua viagem de terça-feira à tarde com a Uber,2025-04-15 15:09:01,True,15,4,2025,15,2025-04-15,2025-04
+15431,noreply@uber.com,13.91,3.21,Sua viagem de terça-feira à tarde com a Uber,2025-04-15 16:28:05,True,15,4,2025,16,2025-04-15,2025-04
+15434,noreply@uber.com,11.91,1.87,Sua viagem de quarta-feira de manhã com a Uber,2025-04-16 08:06:36,True,16,4,2025,8,2025-04-16,2025-04
+15441,noreply@uber.com,7.97,1.55,Sua viagem de quarta-feira à tarde com a Uber,2025-04-16 14:58:50,True,16,4,2025,14,2025-04-16,2025-04
+15495,noreply@uber.com,10.97,1.53,Sua viagem de terça-feira à tarde com a Uber,2025-04-22 14:55:39,True,22,4,2025,14,2025-04-22,2025-04
+15496,noreply@uber.com,30.96,8.98,[Família] Sua viagem de terça-feira à noite com a Uber,2025-04-22 19:45:52,False,22,4,2025,19,2025-04-22,2025-04
+15498,noreply@uber.com,8.93,1.61,Sua viagem de quarta-feira de manhã com a Uber,2025-04-23 08:12:06,True,23,4,2025,8,2025-04-23,2025-04
+15506,noreply@uber.com,8.93,1.58,Sua viagem de quarta-feira à tarde com a Uber,2025-04-23 14:56:15,True,23,4,2025,14,2025-04-23,2025-04
+15512,noreply@uber.com,9.97,1.96,Sua viagem de quinta-feira de manhã com a Uber,2025-04-24 08:09:05,True,24,4,2025,8,2025-04-24,2025-04
+15518,noreply@uber.com,7.91,1.54,Sua viagem de quinta-feira à tarde com a Uber,2025-04-24 14:56:27,True,24,4,2025,14,2025-04-24,2025-04
+15523,noreply@uber.com,10.94,1.86,Sua viagem de sexta-feira de manhã com a Uber,2025-04-25 08:14:12,True,25,4,2025,8,2025-04-25,2025-04
+15546,noreply@uber.com,7.95,1.52,[Família] Sua viagem de domingo àtarde com a Uber,2025-04-27 13:08:08,False,27,4,2025,13,2025-04-27,2025-04
+15549,noreply@uber.com,14.95,1.06,[Família] Sua viagem de domingo à noite com a Uber,2025-04-27 19:20:18,False,27,4,2025,19,2025-04-27,2025-04
+15553,noreply@uber.com,15.42,1.86,Sua viagem de segunda-feira de manhã com a Uber,2025-04-28 08:07:23,True,28,4,2025,8,2025-04-28,2025-04
+15561,noreply@uber.com,6.97,1.3,[Família] Sua viagem de segunda-feira à tarde com a Uber,2025-04-28 15:08:45,False,28,4,2025,15,2025-04-28,2025-04
+15564,noreply@uber.com,8.91,1.0,Sua viagem de segunda-feira à tarde com a Uber,2025-04-28 15:20:05,True,28,4,2025,15,2025-04-28,2025-04
+15572,noreply@uber.com,7.92,1.38,[Família] Sua viagem de terça-feira demanhã com a Uber,2025-04-29 11:23:11,False,29,4,2025,11,2025-04-29,2025-04
+15576,noreply@uber.com,8.95,1.57,Sua viagem de terça-feira à tarde com a Uber,2025-04-29 15:35:25,True,29,4,2025,15,2025-04-29,2025-04
+15588,noreply@uber.com,13.93,2.81,Sua viagem de quarta-feira de manhã com a Uber,2025-04-30 09:36:17,True,30,4,2025,9,2025-04-30,2025-04
+15599,noreply@uber.com,6.98,1.25,[Família] Sua viagem de quarta-feira demanhã com a Uber,2025-04-30 11:19:06,False,30,4,2025,11,2025-04-30,2025-04
+15624,noreply@uber.com,21.28,2.48,Sua viagem de quarta-feira à noite com a Uber,2025-04-30 17:24:20,True,30,4,2025,17,2025-04-30,2025-04
+15626,noreply@uber.com,26.28,2.48,Sua viagem de quarta-feira à noite com a Uber,2025-04-30 17:38:53,True,30,4,2025,17,2025-04-30,2025-04
+15615,noreply@uber.com,16.93,1.6,Sua viagem de segunda-feira de manhã com a Uber,2025-05-05 08:10:28,True,5,5,2025,8,2025-05-05,2025-05
+15630,noreply@uber.com,9.74,0.94,Sua viagem de segunda-feira à tarde com a Uber,2025-05-05 15:26:32,True,5,5,2025,15,2025-05-05,2025-05
+15644,noreply@uber.com,6.93,0.93,Sua viagem de terça-feira à tarde com a Uber,2025-05-06 15:08:12,True,6,5,2025,15,2025-05-06,2025-05
+15661,noreply@uber.com,7.9,0.94,Sua viagem de quarta-feira à tarde com a Uber,2025-05-07 15:39:47,True,7,5,2025,15,2025-05-07,2025-05
+15669,noreply@uber.com,9.95,1.85,Sua viagem de quinta-feira de manhã com a Uber,2025-05-08 07:53:32,True,8,5,2025,7,2025-05-08,2025-05
+15673,noreply@uber.com,8.94,0.93,Sua viagem de quinta-feira à tarde com a Uber,2025-05-08 14:31:44,True,8,5,2025,14,2025-05-08,2025-05
+15683,noreply@uber.com,13.97,1.88,Sua viagem de sexta-feira de manhã com a Uber,2025-05-09 08:07:55,True,9,5,2025,8,2025-05-09,2025-05
+15684,noreply@uber.com,30.98,9.81,[Família] Sua viagem de sexta-feira de manhã com a Uber,2025-05-09 08:31:42,False,9,5,2025,8,2025-05-09,2025-05
+15687,noreply@uber.com,11.97,1.67,[Família] Sua viagem de sexta-feira de manhã com a Uber,2025-05-09 08:56:56,False,9,5,2025,8,2025-05-09,2025-05
+15698,noreply@uber.com,8.93,2.26,Sua viagem de sexta-feira à tarde com a Uber,2025-05-09 14:39:47,True,9,5,2025,14,2025-05-09,2025-05
+15703,noreply@uber.com,30.46,9.6,[Família] Sua viagem de sexta-feira à noite com a Uber,2025-05-09 19:51:06,False,9,5,2025,19,2025-05-09,2025-05
+15706,noreply@uber.com,19.99,2.82,[Família] Sua viagem de sábado à noite com a Uber,2025-05-10 18:47:10,False,10,5,2025,18,2025-05-10,2025-05
+15708,noreply@uber.com,13.96,1.24,Sua viagem de domingo de manhã com a Uber,2025-05-11 11:26:00,True,11,5,2025,11,2025-05-11,2025-05
+15725,noreply@uber.com,8.97,0.91,Sua viagem de segunda-feira à tarde com a Uber,2025-05-12 14:54:51,True,12,5,2025,14,2025-05-12,2025-05
+15733,noreply@uber.com,15.03,1.84,Sua viagem de terça-feira de manhã com a Uber,2025-05-13 08:06:42,True,13,5,2025,8,2025-05-13,2025-05
+15735,noreply@uber.com,11.83,3.16,[Família] Sua viagem de terça-feira de manhã com a Uber,2025-05-13 09:38:02,False,13,5,2025,9,2025-05-13,2025-05
+15737,noreply@uber.com,22.04,2.22,[Família] Sua viagem de terça-feira à tarde com a Uber,2025-05-13 13:04:24,False,13,5,2025,13,2025-05-13,2025-05
+15739,noreply@uber.com,12.92,1.56,Sua viagem de terça-feira à tarde com a Uber,2025-05-13 14:46:13,True,13,5,2025,14,2025-05-13,2025-05
+15750,noreply@uber.com,13.6,1.85,Sua viagem de quarta-feira de manhã com a Uber,2025-05-14 08:09:42,True,14,5,2025,8,2025-05-14,2025-05
+15759,noreply@uber.com,13.4,0.89,Sua viagem de quarta-feira à tarde com a Uber,2025-05-14 14:53:11,True,14,5,2025,14,2025-05-14,2025-05
+15766,noreply@uber.com,8.96,1.88,Sua viagem de quinta-feira de manhã com a Uber,2025-05-15 08:06:25,True,15,5,2025,8,2025-05-15,2025-05
+15774,noreply@uber.com,16.91,3.21,Sua viagem de quinta-feira à tarde com a Uber,2025-05-15 16:43:07,True,15,5,2025,16,2025-05-15,2025-05
+15779,noreply@uber.com,9.77,1.85,Sua viagem de sexta-feira de manhã com a Uber,2025-05-16 08:04:21,True,16,5,2025,8,2025-05-16,2025-05
+15788,noreply@uber.com,12.95,0.89,Sua viagem de sexta-feira à tarde com a Uber,2025-05-16 14:34:31,True,16,5,2025,14,2025-05-16,2025-05
+15796,noreply@uber.com,10.98,2.34,Sua viagem de sábado de manhã com a Uber,2025-05-17 11:53:26,True,17,5,2025,11,2025-05-17,2025-05
+15798,noreply@uber.com,14.98,3.42,[Família] Sua viagem de sábado à tarde com a Uber,2025-05-17 13:27:12,False,17,5,2025,13,2025-05-17,2025-05
+15802,noreply@uber.com,15.98,2.34,Sua viagem de sábado de manhã com a Uber,2025-05-19 07:45:15,True,19,5,2025,7,2025-05-19,2025-05
+15811,noreply@uber.com,10.98,1.65,[Família] Sua viagem de segunda-feira à tarde com a Uber,2025-05-19 14:02:53,False,19,5,2025,14,2025-05-19,2025-05
+15816,noreply@uber.com,7.97,0.92,Sua viagem de segunda-feira à tarde com a Uber,2025-05-19 15:20:55,True,19,5,2025,15,2025-05-19,2025-05
+15825,noreply@uber.com,13.93,1.96,Sua viagem de terça-feira de manhã com a Uber,2025-05-20 08:26:58,True,20,5,2025,8,2025-05-20,2025-05
+15838,noreply@uber.com,8.99,1.56,Sua viagem de terça-feira à tarde com a Uber,2025-05-20 14:51:26,True,20,5,2025,14,2025-05-20,2025-05
+15843,noreply@uber.com,13.92,1.62,Sua viagem de quarta-feira de manhã com a Uber,2025-05-21 08:13:52,True,21,5,2025,8,2025-05-21,2025-05
+15851,noreply@uber.com,8.97,1.57,Sua viagem de quarta-feira à tarde com a Uber,2025-05-21 15:03:08,True,21,5,2025,15,2025-05-21,2025-05
+15862,noreply@uber.com,8.95,2.35,Sua viagem de quinta-feira à tarde com a Uber,2025-05-22 14:27:25,True,22,5,2025,14,2025-05-22,2025-05
+15866,noreply@uber.com,10.94,3.13,Sua viagem de quinta-feira à tarde com a Uber,2025-05-22 15:53:22,True,22,5,2025,15,2025-05-22,2025-05
+15873,noreply@uber.com,14.98,1.87,Sua viagem de sexta-feira de manhã com a Uber,2025-05-23 08:06:50,True,23,5,2025,8,2025-05-23,2025-05
+15897,noreply@uber.com,15.19,1.53,Sua viagem de sexta-feira à tarde com a Uber,2025-05-23 13:55:55,True,23,5,2025,13,2025-05-23,2025-05
+15912,noreply@uber.com,23.59,9.24,[Família] Sua viagem de sábado de manhã com a Uber,2025-05-24 09:10:23,False,24,5,2025,9,2025-05-24,2025-05

@@ -27,7 +27,7 @@ def main():
     emails_df = get_emails_from_uber(mail, since, EMAILS_LIST_FILE_NAME)
     json_data = read_uber_mail(DUMPED_FILE_NAME)
     for index, item in emails_df.iterrows():
-        #print(item['e-mail'], item['count'])
+        print(f'Processing {item["e-mail"]} with {item["count"]} emails')
         mail_addr = item['e-mail']
         for email_id in item['ids']:
             result, data = mail.fetch(str(email_id), '(RFC822)')
