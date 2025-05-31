@@ -45,11 +45,54 @@ def process_data(data):
     # Sort by date
     df = df.sort_values('date')
     
-    # Remove address columns (any column that starts with 'addr')
+    # Anonymize address columns (any column that starts with 'addr')
     address_columns = [col for col in df.columns if col.startswith('addr')]
-    df = df.drop(columns=address_columns, errors='ignore')
+    
+    # Create a mapping of unique addresses to coded identifiers
+    unique_addresses = {}
+    address_id_counter = {'work': 1, 'home': 1}  # Separate counters for work and home
+    
+    # Process each address column
+    for col in address_columns:
+        # Create a new anonymized column
+        new_col_name = f"{col}_anon"
+        
+        # Process each address in the column
+        df[new_col_name] = df.apply(
+            lambda row: anonymize_address(row[col], row['work_related'], unique_addresses, address_id_counter),
+            axis=1
+        )
+        
+        # Drop the original address column
+        df = df.drop(columns=[col])
+    
+    # Save the address mapping to a file for reference
+    with open(f"{OUTPUT_DIR}/address_mapping.json", 'w') as f:
+        json.dump(unique_addresses, f, indent=4)
     
     return df
+
+def anonymize_address(address, is_work_related, address_map, counter):
+    """Create an anonymized code for an address"""
+    if pd.isna(address) or address == "":
+        return ""
+    
+    # If this address has already been mapped, use the existing code
+    if address in address_map:
+        return address_map[address]
+    
+    # Create a new code based on whether it's work-related
+    if is_work_related:
+        code = f"W{counter['work']:03d}"
+        counter['work'] += 1
+    else:
+        code = f"H{counter['home']:03d}"
+        counter['home'] += 1
+    
+    # Store the mapping
+    address_map[address] = code
+    
+    return code
 
 def generate_graphics(df):
     """Generate graphics relating price and date/time, separated by work_related field"""
